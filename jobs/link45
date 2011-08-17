@@ -1,0 +1,1237 @@
+<html>
+<head>
+<!--
+SERVER_NAME: app3.experience.com
+PAGE_NAME: job_profile.jsp
+-->
+<title>Job: Sr. Scientist - Health Economics & Outcomes Research</title>
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/grid.css" />
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/formatting.css" />
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/er_main.css" />
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/main.css" />
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/grid.css" />
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/lib/grid.css" />
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/modalbox2.css" />
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/stu_page.css" />
+<style type="text/css">
+.secondary	{background-color:#0000CC;}
+.primary		{background-color:#000099;}
+table.nav a:hover {color:#0000CC;}
+</style>
+<script type="text/javascript">var IMAGE_SERVER="http://20110714-images.experience.com"</script>
+<!-- output from BoJspPage -->
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/jquerymin.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/jqueryslidemenu.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/main.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/calendar.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/prototype.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/effects.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/modalbox.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/jquery-1.4.2.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/jquery.ui.core.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/jquery.ui.accordion.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/recommendation_data_service.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/er/includes/main.js"></script>
+<script type="text/javascript"><!--
+
+var millisToWarning=1500000;
+var millisToTimeout=180000;
+var keepAlivePage="/shared/security/session_keepalive.jsp";
+initialTimeout();
+var isPopup=false;
+//-->
+</script>
+</head>
+<body bgcolor="#FFFFFF" onload="__onload();">
+<form name="logoutform" action="/er/security/logout.jsp"><input type="hidden" name="auto" value="" /></form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+function submitWebSearch() {
+	var val = document.forms._webSearch.qualifier.value;
+	val = val.trim();
+	if (val == "search the web") document.forms._webSearch.qualifier.value = '';
+	if (val == '' || val == "search the web") alert("Your Search box is empty.  Please enter one or more search words.");
+	else document.forms._webSearch.submit();
+}
+</script>
+
+<link href="http://20110714-images.experience.com/css/corp_page.css" rel="stylesheet" type="text/css"/>
+
+<style>
+
+
+	#welcome_div {
+	height:auto;
+	width:780px;
+	text-align:right;
+	display:block;
+	clear:right;
+	padding-bottom:5px;
+	}
+
+	#dashed_line {
+	height:6px;
+	width:780px;
+	display:block;
+	background:url(http://20110714-images.experience.com/images2/nav/texture_bg.gif) repeat-x;
+	clear:right;
+	margin-bottom:0px;
+	_margin-bottom:-7px;
+	}
+
+	#secondary_rule {
+	height:7px;
+	width:780px;
+	display:block;
+	clear:right;
+	padding:-10px;
+
+	}
+
+	#content_div {
+	width:780px;
+	display:block;
+	clear:none;
+	padding-bottom:7px;
+	/*border-bottom:7px solid #454444;*/
+	border-top:7px solid #0000CC;
+	text-align:left;
+	background:url(http://20110714-images.experience.com/images2/nav/gradient.png) repeat-x bottom left #000099;
+
+	}
+
+	#innercontent_div {
+	background-color:#FFF;
+	width:766px;
+	margin:0px 7px 0px 7px;
+	}
+
+
+	#logo {
+	height:60px;
+	width:383px;
+	display:inline-block;
+	clear:none;
+	float:left;
+	text-align:left;
+	margin:0px 0px -70px 0px;
+	_margin:0px 0px 0px 0px;
+	padding:3px 0px 0px 5px;
+	}
+
+	#ad_zone {
+	height:60px;
+	width:383px;
+	display:inline-block;
+	clear:right;
+	float:right;
+	text-align:left;
+	}
+
+
+/* NAV STYLES BEGIN*/
+	.jqueryslidemenu{
+width: 766px;
+height:30px;
+background:url(http://20110714-images.experience.com/images2/nav/nav_bg.gif) repeat-x;
+clear:right;
+position:relative;
+/*z-index:1000;
+clear:both;*/
+
+}
+
+.jqueryslidemenu ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+
+}
+
+/*Top level list items*/
+.jqueryslidemenu ul li{
+position: relative;
+display: inline;
+float: left;
+
+}
+
+/*Top level menu link items style*/
+.jqueryslidemenu ul li a{
+display: block;
+background:url(http://20110714-images.experience.com/images2/nav/nav_bg.gif) repeat-x; /*background of tabs (default state)*/
+padding: 8px 10px 7px 10px;
+border-right: 2px solid #bcbcbc;
+color: #2d2b2b;
+text-decoration: none;
+
+}
+
+* html .jqueryslidemenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+ font: bold 12px arial;
+}
+
+* html .jqueryslidemenu ul li ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+font: normal 12px arial;
+}
+
+* html .jqueryslidemenu ul li ul li a:hover{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+font: normal 12px arial;
+}
+
+.jqueryslidemenu ul li a:link, .jqueryslidemenu ul li a:visited{
+color: #666;
+text-decoration:none;
+font: bold 12px arial;
+}
+
+.jqueryslidemenu ul li ul li a:link, .jqueryslidemenu ul li ul li a:visited{
+color: #666;
+text-decoration:none;
+font: normal 12px arial;
+}
+
+.jqueryslidemenu ul li a:hover{
+background: #b1b0b0; /*tab link background during hover state*/
+color: white;
+}
+
+.jqueryslidemenu ul li ul li a:hover{
+background: #b1b0b0; /*tab link background during hover state*/
+color: white;
+}
+
+/*1st sub level menu*/
+.jqueryslidemenu ul li ul{
+position: absolute;
+left: 0;
+display: block;
+visibility: hidden;
+font: normal 12px arial;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.jqueryslidemenu ul li ul li{
+display: list-item;
+float: none;
+font: normal 12px arial;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.jqueryslidemenu ul li ul li ul{
+top: 0;
+}
+
+/* Sub level menu links style */
+.jqueryslidemenu ul li ul li a{
+background: #e1dddd;
+font: normal 12px arial;
+width: 160px; /*width of sub menus*/
+padding: 5px;
+margin: 0;
+border-left: 1px solid #b1b0b0;
+border-right: 1px solid #b1b0b0;
+border-bottom: 1px solid #b1b0b0;
+}
+
+.jqueryslidemenuz ul li ul li a:hover{ /*sub menus hover style*/
+background: #eff9ff;
+font: normal 12px arial;
+color: black;
+}
+
+/* 
+.downarrowclass{
+position: absolute;
+top: 12px;
+right: 7px;
+}
+
+.rightarrowclass{
+position: absolute;
+top: 6px;
+right: 5px;
+}
+/* NAV STYLES END*/
+#secondaryColor {background-color:#0000CC;}
+#primaryColor {background-color:#000099;}
+</style>
+<!-- Toolbar includes -->
+
+
+<link href="http://20110714-images.experience.com/css/lib/navigation.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/prototype.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/scriptaculous.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/effects.js"></script>
+<!-- END Toolbar includes --><script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/modalbox.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/recommendation_data_service.js"></script>
+<script>
+  lastLoginTime = 0;
+            lastLoginTime = 1311054850000;
+        RecommedationUtil.initialize(29873844, lastLoginTime, 'http://20110714-images.experience.com');
+    RecommedationUtil.initilizeServiceUrl('$user_session.recommendedServerUrl');
+  RecommedationUtil.initializeSessionToken('66be0f1622626978704084b979751608:131411583cb');
+  var msgArray = [];
+  var msgArray2 = [];
+  function goNetwork(sel, affhnd){
+    document.location=sel[sel.selectedIndex].value;
+    var ahnd = 1;
+    if("/alumnus/branded_home?aff=" == sel[sel.selectedIndex].value.substring(0, 26)){
+      ahnd = sel[sel.selectedIndex].value.substring(26, sel[sel.selectedIndex].value.length);
+    }else if ("/stu/" == sel[sel.selectedIndex].value.substring(0, 5)){
+      ahnd = affhnd
+    }	
+  }
+  var userid=28719700
+  
+function SwitchNetworkEventHandle(ref, affhnd){
+	try{
+		//ntptAddPair("exp_a_id", affhnd);
+		ntptEventTag('ev=switchnetwork&pv=0&rf=' + escape( ref )+'&exp_a_id='+affhnd);
+	}catch(err){
+		//alert("error occurs"+err.description);
+	}
+}
+</script>
+
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/navigator.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/navcontroller.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/navslider.js" ></script>
+<link href="http://20110714-images.experience.com/css/print.css" rel="stylesheet" type="text/css" media="print" />
+<link rel="stylesheet" href="http://20110714-images.experience.com/css/modalbox.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://20110714-images.experience.com/css/navigator.css"  type="text/css" />
+<!--[if lte IE 6]>
+<link rel="stylesheet" href="http://20110714-images.experience.com/css/navigatorie.css"  type="text/css" />
+<![endif]-->
+<div id="expBarPrint">
+  <a href="#" id="logoLink"><img src="http://20110714-images.experience.com/images2/experience_footer_logo.gif" border="0" alt="Experience"></a>
+  </div>
+<!--BEGIN TOOLBAR -->
+<div id="slider_navigator" class="loggedin">
+  <div id="slider_navinner"  class="erbar" > 
+    <div id="slider_nav2">
+  <a href="/alumnus/home" id="slider_explogo"><img src="http://20110714-images.experience.com/images2/public/nav_logo.png" alt="Experience"></a>
+  
+       
+      <div class="slider_navlinks">
+        <a href="/alumnus/recommended_job" ><img src="http://20110714-images.experience.com/images2/public/nav_jobs.png" alt="Jobs"></a> 
+        <a href="/alumnus/portfoliolanding" ><img src="http://20110714-images.experience.com/images2/public/nav_portfolio.png" alt="Portfolio"></a> 
+        <a href="/alumnus/networking" ><img src="http://20110714-images.experience.com/images2/public/nav_networking.png" alt="Networking"></a> 
+        <a href="/alumnus/recommended_content" ><img src="http://20110714-images.experience.com/images2/public/nav_guidance.png" alt="Guidance"></a> 
+      </div>
+     <!-- <a href="#" id="newrec"><img src="http://20110714-images.experience.com/images2/public/nav_newrecommend.png" alt="New Recommendations"></a>-->
+    <div id="slider_newrec">
+	<a href="#" onClick="return showRec('slider_jobs', 585)"><img src="http://20110714-images.experience.com/images2/widget/chick_jobs_on.png" id="chick_jobs" alt="Job Alert" border="0"></a>
+	<a href="#" onClick="return showRec('slider_content', 630)"><img src="http://20110714-images.experience.com/images2/widget/chick_content_on.png" id="chick_content" alt="Guidance" border="0"></a>
+	<a href="#" onClick="return showRec('slider_announce', 675)"><img src="http://20110714-images.experience.com/images2/widget/chick_announcement_on.png" id="chick_announcement" alt="Announcements" border="0"></a>
+    </div>
+
+	  <div id="slider_candacct">
+              <a href="/alumnus/create_emp?fromAlu=true" title="Employers"><img src="http://20110714-images.experience.com/images2/public/nav_employer.png" alt="Go to Employer Account"></a>
+            </div>
+      <div id="slider_loglink">
+                <a href="#" class="affhnd0"><img src="http://20110714-images.experience.com/images2/public/nav_search.png" alt="Search"></a>
+      </div>
+    </div>
+  </div>
+  <div id="slider_topnav">
+  <div id="slider_navbar">
+    <div id="slider_navtab"><img src="http://20110714-images.experience.com/images2/public/navtab.png" alt="Open"></div>
+    <div id="slider_network">
+     <p>Select Your Network:</p>
+     <ul class="arrowlist">
+      	  <li><a href="/alumnus/" onclick="SwitchNetworkEventHandle(this.href, 1);">Experience</li>
+	  	  		<li><a href="/stu/" onclick="SwitchNetworkEventHandle(this.href, 14272);" >Duke University</li>
+	  	     </ul>
+    </div>
+    <div id="slider_navinfo">
+      <div id="slider_portinfo" class="infoboxli narrowbox">
+				<ul class="narrow">
+		  <li><a href="/alumnus/portfolio?aff=0#tab_1">Profile</a></li>
+		  <li><a href="/alumnus/portfolio?aff=0#tab_2">Resumes</a></li>
+		  <li><a href="/alumnus/portfolio?aff=0#tab_3">Experiences</a></li>
+		  <li><a href="/alumnus/portfolio?aff=0#tab_4">References</a></li>
+		  <li><a href="/alumnus/portfoliotracking?aff=0">Track Portfolios</a></li>
+		</ul>
+		      </div>
+      <div id="slider_netinfo" class="infoboxli">
+		<ul>
+                                <li class="first"><a href="/alumnus/networking">Connections</a></li>
+          		</ul>
+      </div>
+      <div id="slider_guideinfo" class="infoboxli">
+        <ul>
+		  <li onMouseover="showInfoMenu2(event, this, 'businessMenu')" onMouseout="hidemenu()">
+            <a href="#">Business ></a>
+            <div id="businessMenu" class="contentList" style="display:none" onMouseover="highMenu(event, this)" onMouseout="unhighMenu(event, this)">
+				 <a href="/alumnus/channel?channel_id=finance&page_id=home">Finance</a>
+				 <a href="/alumnus/channel?channel_id=accounting&page_id=home">Accounting</a>
+				 <a href="/alumnus/channel?channel_id=consulting&page_id=home">Consulting</a>
+				 <a href="/alumnus/channel?channel_id=sales&page_id=home">Sales</a>
+            </div>
+          </li>
+		  <li onMouseover="showInfoMenu2(event, this, 'communicationsMenu')" onMouseout="hidemenu()">
+            <a href="#">Communications ></a>
+        <div id="communicationsMenu" class="contentList" style="display:none" onMouseover="highMenu(event, this)" onMouseout="unhighMenu(event, this)">
+			<a href="/alumnus/channel?channel_id=advertising_marketing_pr&page_id=home">Marketing</a>
+			<a href="/alumnus/channel?channel_id=Entertainment&page_id=home">Entertainment</a>
+			<a href="/alumnus/channel?channel_id=Sports&page_id=home">Sports</a>
+        </div>
+          </li>
+		  <li onMouseover="showInfoMenu2(event, this, 'publicserviceMenu')" onMouseout="hidemenu()">
+            <a href="#">Public Service ></a>
+            <div id="publicserviceMenu" class="contentList" style="display:none" onMouseover="highMenu(event, this)" onMouseout="unhighMenu(event, this)">
+			  <a href="/alumnus/channel?channel_id=biotech_pharma_healthcare&page_id=home">Healthcare</a>
+				<a href="/alumnus/channel?channel_id=government&page_id=home">Government</a>
+				<a href="/alumnus/channel?channel_id=education&page_id=home">Education</a>
+				<a href="/alumnus/channel?channel_id=nonprofit&page_id=home">Non-profit/NGO</a>
+            </div>
+          </li>
+		  <li onMouseover="showInfoMenu2(event, this, 'technologyMenu')" onMouseout="hidemenu()">
+            <a href="#">Technology ></a>
+            <div id="technologyMenu" class="contentList" style="display:none" onMouseover="highMenu(event, this)" onMouseout="unhighMenu(event, this)">
+				<a href="/alumnus/channel?channel_id=energy_utilities&page_id=home">Energy</a>
+				<a href="/alumnus/channel?channel_id=engineering&page_id=home">Engineering</a>
+				<a href="/alumnus/channel?channel_id=technology&page_id=home">Technology</a>
+				<a href="/alumnus/channel?channel_id=microsoft_s2b&page_id=home">Microsoft S2B</a>
+            </div>
+          </li>
+		  <li onMouseover="showInfoMenu2(event, this, 'careerresourcesMenu')" onMouseout="hidemenu()">
+            <a href="#">Resources ></a>
+            <div id="careerresourcesMenu" class="contentList contentListWide" style="display:none" onMouseover="highMenu(event, this)" onMouseout="unhighMenu(event, this)">
+              <div style="float:left">
+				<a href="/alumnus/channel?channel_id=Resumes&page_id=home">Resumes</a>
+				<a href="/alumnus/channel?channel_id=Interviews&page_id=home">Interviews</a>
+				<a href="/alumnus/channel?channel_id=Networking&page_id=home">Networking</a>
+				<a href="/alumnus/channel?channel_id=internships&page_id=home">Internships</a>
+				<a href="/alumnus/channel?channel_id=manage_your_career&page_id=home">Manage Your Career</a>
+              </div>
+              <div style="float:left">
+				<a href="/alumnus/channel?channel_id=salaries&page_id=home">Salaries</a>
+				<a href="/alumnus/channel?channel_id=advanced_degree_development&page_id=home">Grad School</a>
+				<a href="/alumnus/channel?channel_id=experience&page_id=home">Exclusive Experiences</a>
+				<a href="/alumnus/channel?channel_id=job_spotlight&page_id=home">Job Spotlight</a>
+				<a href="/alumnus/channel?channel_id=seasonal_opportunities&page_id=home">Seasonal Opportunities</a>
+              </div>
+            </div>
+          </li>
+		  <li onMouseover="showInfoMenu2(event, this, 'worklifeMenu')" onMouseout="hidemenu()">
+            <a href="#">Work Life ></a>
+            <div id="worklifeMenu" class="contentList contentListTall" style="display:none" onMouseover="highMenu(event, this)" onMouseout="unhighMenu(event, this)">
+				<a href="/alumnus/channel?channel_id=managingyourmoney&page_id=home">Manage Your Money</a>
+				<a href="/alumnus/channel?channel_id=swapping_places&page_id=home">Swapping Places</a>
+				<a href="/alumnus/channel?channel_id=Ventures_Abroad&page_id=home">Ventures Abroad</a>
+				<a href="/alumnus/channel?channel_id=entrepreneurship_guide&page_id=home">Entrepreneurs</a>
+				<a href="/alumnus/channel?channel_id=diversity&page_id=home">Diversity</a>
+            </div>
+          </li>
+		  <li><a href="/alumnus/channel?channel_id=green&page_id=home">Experience Green</a></li>
+        </ul>
+      </div>
+    </div>
+    <img src="http://20110714-images.experience.com/images2/public/recarrow.png" alt="" id="slider_recarrow"> 
+    <div id="slider_recinfo">
+      <div id="slider_jobs" class="recdiv">
+      <h3><a href="/alumnus/recommended_job" class="alllink" title="View All Job Matches"><img src="http://20110714-images.experience.com/images2/public/nav_viewall.png" alt="View All Job Matches"></a>Job Matches</h3>
+	  <span id="job_list">
+		Loading job matches...<br><br>
+	  </span>
+      </div>
+      <div id="slider_content" class="recdiv" style="display:none">
+      <h3><a href="/alumnus/recommended_content" class="alllink" title="View All Articles and Advice"><img src="http://20110714-images.experience.com/images2/public/nav_viewall.png" alt="View All Articles and Advice"></a>Recommended <br>Articles &amp Advice</h3> 
+	  <span id="content_list">
+		Loading recommended content....<br><br>
+	  </span>
+      </div>
+      <div id="slider_announce" class="recdiv" style="display:none">
+      <h3><a href="/alumnus/recommended_announcement" class="alllink" title="View All Announcements"><img src="http://20110714-images.experience.com/images2/public/nav_viewall.png" alt="View All Announcements"></a>Announcements</h3>
+	  <span id="announcement_list">
+		Loading Announcements....<br><br>
+	  </span>
+      </div>
+    </div>
+    <div id="slider_updateprofile">
+      <img src="http://20110714-images.experience.com/images2/public/arrowleft.png"><p>To get better results be sure to <a href="/alumnus/portfolio">update your profile</a>.</p>
+	</div>
+    <div id="slider_search" class="affhnd0">
+      <form action="/alumnus/membersearch"  id="cse-search-box" style="margin: 0px; padding: 0px;">
+      <input type="hidden" name="cx" value="007710001029318733977:hjlig2hemcy" />
+      <input type="hidden" name="cof" value="FORID:11" />
+      <input type="hidden" name="ie" value="UTF-8" />
+      <input type="text" class="textinput" name="q" value="Search Experience" onFocus="fixField(this, 'Search Experience')" onBlur="checkField(this, 'Search Experience')" />
+      <div class="slider_button"><input type="submit" value="Search"></div>
+    </div>
+      </div>
+  </div>
+</div>
+
+<div id="erpop"><div id="erinnerpop">
+<p>To return to your school now click the link below:</p>
+	  			<a href="/stu/" onclick="SwitchNetworkEventHandle(this.href, 14272);">
+				<img src="http://20110714-images.experience.com/images2/schools/000/014/14272_thumb.gif" alt="Duke University" border="0"/>
+			</a>
+	  <p class="note">You can always return to your school and get to any of your networks by selecting from the "Select a Network" drop down in the toolbar.</p>
+<div class="nocheck"><input type="checkbox" id="noshow"> </form>Don't remind me again</div>
+<div class="closelink"><a href="#" onClick="hideSticky()">Close</a></div>
+<div class="clearme"></div>
+</div></div>
+
+
+<div id="toolbar_confirm" class="confirmationPage" style="display:none"></div>
+<script type="text/javascript">
+var showStick= false ;
+function showSticky(){
+	if(RecommedationUtil.getCookie("expSticky")!="true"){
+	  if(showStick){
+		 var popleft = null;
+		 if (document.all)
+		 popleft=(document.body.clientWidth/2)-440;
+		 else
+		 popleft=((document.documentElement.clientWidth-760)/2)-60;
+		 var popwin=$('erpop');
+		 new Effect.Move(popwin, { x: popleft, y: 130, mode: 'absolute' });
+		//     Effect.Appear('erpop', { duration: 1.5 });
+		//     $('erpop').show();
+	}
+   }
+}
+function hideSticky(){
+  $('erpop').hide()
+  if($('noshow').checked){
+    var expireDate = new Date;
+    expireDate.setFullYear(2050)
+    RecommedationUtil.createCookie("expSticky", "true", expireDate)
+  }
+}
+
+
+
+	loadAllChicklets();
+	Event.observe(window, 'load', function() {
+		showSticky();
+	});
+</script>
+
+<!--[if lte IE 7]>
+<style type="text/css">
+html .jqueryslidemenu{height: 1%;} /*Holly Hack for IE7 and below*/
+</style>
+<![endif]-->
+
+<div align="center">
+
+<div id="welcome_div">Welcome, <strong>Hareesh</strong> &nbsp;|&nbsp; <a href="/er/security/logout.jsp" style="color:blue;text-decoration:underline;">Sign Out</a> &nbsp;|&nbsp; <a href="/er/help/student_online_help.jsp" style="color:blue;text-decoration:underline;">Help</a></div>
+<div id="dashed_line"></div>
+<div id="content_div">
+<div id="innercontent_div">
+<div id="logo"><img src="http://20110714-images.experience.com/images2/schools/000/014/14272.gif" border="0" alt="" /></div>
+<div id="ad_zone"><script language='JavaScript' type='text/javascript'><!--
+if(!document.expAdBoxen)document.expAdBoxen=new Array();
+document.write("<div class='phpadbox' id='exp_adbox_"+document.expAdBoxen.length+"'></div>");
+document.expAdBoxen[document.expAdBoxen.length]='http://adserver.experience.com/adjs.php?n=__PHPADSRANDOM__&amp;what=zone:er_student_nav,override,finance_banking___financial_services_planning,male,technology___software,technology___electronics,finance_banking___commercial_banking,technology___information_systems,finance_banking___corporate_finance,technology___hardware,engineering___computer,finance_banking___consumer_retail_banking,engineering___biochemical_biomedical,finance_banking___venture_capital,technology___internet_e_commerce,engineering___electrical,engineering,finance_banking___investment_banking,telecommunications,default&amp;userhnd=29873844&amp;block=1&amp;exclude=__PHPADSUSED__'+
+(document.referrer?'&amp;referer='+escape(document.referrer):'')+'&amp;exp_server=duke.experience.com&amp;exp_http=http&amp;exp_image_server=20110714-images.experience.com';
+//-->
+</script></div>
+<div id="myslidemenu" class="jqueryslidemenu">
+<ul>
+<li><a href="/stu/">Home</a></li>
+<li><a href="#">Profile</a>
+	<ul>
+	<li><a href="/er/stu/profile/personal_info.jsp">View/edit Profile Data</a></li>
+	<li><a href="https://duke.experience.com/er/student/student_change_passwd.jsp">Change Your Password</a></li>    </ul></li>
+<li><a href="#">Documents</a>
+	<ul>
+	<li><a href="/er/stu/document/document_upload_type.jsp">Upload a Document</a></li>
+	<li><a href="/er/stu/resumebooks/publish_resumes.jsp">Publish a Resume</a></li>
+	<li><a href="/stu/document_main">Your Resumes</a></li>
+	<li><a href="/stu/document_main?category=1501">Your Cover Letters</a></li>
+	<li><a href="/stu/document_main?category=1502">Your Writing Samples</a></li>
+	<li><a href="/stu/document_main?category=1503">Your Other Documents</a></li>
+	</ul></li>
+<li><a href="#">Applications</a>
+	<ul>
+    <li><a href="/er/stu/application/app_active.jsp">Your Active Applications</a></li>
+	<li><a href="/er/stu/application/app_historical.jsp">Your Past Applications</a></li>	</ul></li>
+<li><a href="#">Calendar</a>
+	<ul>
+	<li><a href="/er/stu/calendar/career_center_calendar_view.jsp">Career Center calendar</a></li>
+	<li><a href="/er/stu/calendar/career_center_calendar.jsp">Calendar Search</a></li>
+	<li><a href="/er/stu/calendar/index.jsp">Your Upcoming Events</a></li>
+	</ul></li>
+
+<li style="float:right;"><a href="#" style="border-right: 2px solid transparent;">Employers</a>
+    <ul>
+	<li><a href="/er/employer/employer_search.jsp">Employers Search</a></li>
+	<li><a href="/er/stu/employer/emp_folders.jsp">Favorite Employers</a></li>
+	</ul></li>
+<li style="float:right;"><a href="#">Jobs &amp; Internships</a>
+	<ul>
+	<li><a href="/stu/job_search">Job/Internship Search</a></li>
+	<li><a href="/er/stu/opportunities/job_folders.jsp">Favorite Jobs</a></li>
+	</ul></li>
+</ul>
+</div>
+
+
+<!-- share this for all users -->
+
+<table width="750" border="0" cellspacing="0" cellpadding="0" style="margin-top:10px;">
+<tr>
+<td width="10"><img src="http://20110714-images.experience.com/images2/stratego/misc/clear.gif" width="10" height="1" border="0" alt="" /></td>
+
+<td width="730">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<script language='JavaScript' type='text/javascript'><!--
+if(!document.expAdBoxen)document.expAdBoxen=new Array();
+document.write("<div class='phpadbox' id='exp_adbox_"+document.expAdBoxen.length+"'></div>");
+document.expAdBoxen[document.expAdBoxen.length]='http://adserver.experience.com/adjs.php?n=__PHPADSRANDOM__&amp;what=zone:er_job_profile_top_banner_emp,override,default&amp;userhnd=29873844&amp;block=1&amp;exclude=__PHPADSUSED__'+
+(document.referrer?'&amp;referer='+escape(document.referrer):'')+'&amp;exp_server=duke.experience.com&amp;exp_http=http&amp;exp_image_server=20110714-images.experience.com';
+//-->
+</script>
+<div class="job_layouthead">
+
+<h1>Sr. Scientist - Health Economics & Outcomes Research </h1>
+<div class="joblinks">
+		<a class="link_notes"" href="javascript:" onClick="popup('email_to_friend.jsp?job_hnd=27489779&affiliation_hnd=14272','','555','400','no','no','no','no','no','no');return false;">Email Job</a><!--
+		-->&nbsp;|&nbsp;<!--
+		--><a class="link_notes" href="/er/shared/folder_create_choose.jsp?folder_hnd=-1&folder_type=11551">Add to Favorite Jobs</a>
+</div>
+<div class="employerslink">
+	
+	  
+		<a href="/er/stu/employer/employer_profile.jsp?employer_hnd=4322899">See other jobs, upcoming events and more at Covance Market Access Services</a>
+	  
+	
+</div>
+<!-- branding -->
+</div>
+
+
+
+
+
+
+ 
+</td>
+<td width="10"><img src="http://20110714-images.experience.com/images2/stratego/misc/clear.gif" width="10" height="1" border="0" alt="" /></td>
+
+<tr>
+<td colspan="3"><img src="http://20110714-images.experience.com/images2/stratego/misc/clear.gif" alt="" width="1" height="10" border="0" /></td>
+</tr>
+
+
+</table>
+
+<!-- end common for all users -->
+<script  language="javascript" src="http://20110714-images.experience.com/er/includes/overlib.js"></script>
+<div id="navtxt" class="tooltip2"></div>
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/css/jobTemplates.css" />
+
+<div class="job_layout" style="padding-top:0">
+
+
+	
+
+
+
+<!--String empNameEncoded = HtmlUtil.encodeUrlParam( emp.getEmployerName() ); -->
+
+	<p style="margin:0 0 6px 18px"><a href="/alumnus/hoovers_search_results?action=search&name=Covance%20Market%20Access%20Services">Search for Covance Market Access Services</a>  on <a href="/alumnus/hoovers_search_results?action=search&name=Covance%20Market%20Access%20Services" class="hooverlogo"><img src="/images2/partners/sm_hoovers.gif" alt="" border="0" style="vertical-align:middle"></a></p>
+
+	<div class="jobinfo">
+	  <div class="joboverview">
+		<h2>Job Information</h2>
+	  <div class="joboverviewPart1">
+		  
+					<span class="displayLabel">Date Posted:</span>
+					<span class="displayValue">
+					6/13/11
+					</span>
+
+
+					<span class="displayLabel">Period of Employment:</span>
+					<span class="displayValue">
+					Not Specified
+					</span>
+
+					<span class="displayLabel">Pay Type:</span>
+					<span class="displayValue">
+					Paid
+					</span>
+
+
+					<!-- begin brought to you by link -->
+					<span class="displayLabel">Brought to You By:</span>
+					<span class="displayValue displayLogo">
+					
+								<img src="http://20110714-images.experience.com/images2/schools/000/014/14272_thumb.gif"
+									alt="Duke University"><br/>
+					
+					<!-- end brought to you by link -->
+					</span>
+	  </div>
+	  <div class="joboverviewPart2">
+					<span class="displayLabel">Opportunity Type:</span>
+					<span class="displayValue">
+					Job
+					</span>
+					<span class="displayLabel">Job Status:</span>
+					<span class="displayValue">
+					Full-Time
+					</span>
+
+	  </div>
+	</div>
+			<!-- marked as inappropriate -->
+			
+
+	<div class="interviewschedules">
+	<h2>Interview Schedules</h2>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+	  <p>This job does not currently have an interview schedule attached to it.</p>
+
+
+
+
+
+
+
+
+ 
+
+	</div>
+	
+	<div class="jobdetails">
+	<h2>Description & Details</h2>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+<table cellpadding="0" cellspacing="0" border="0">
+		<!-- begin location -->
+		
+			<tr>
+				<td>
+					<span class="displayLabel">Location:</span><br>
+					
+						San Diego, California<br />
+					
+						Gaithersburg, Maryland<br />
+					
+					<br />
+				</td>
+			</tr>
+		
+		<!-- end location -->
+
+<tr class="displayRow" valign="top">
+<td>
+<span class="displayLabel">Industry:&nbsp;</span>
+<br />
+Consulting - Healthcare, Consulting - Policy
+<br /><br />
+</td>
+</tr>
+
+
+	<tr class="displayRow" valign="top">
+	<td><script language='JavaScript' type='text/javascript'><!--
+if(!document.expAdBoxen)document.expAdBoxen=new Array();
+document.write("<div class='phpadbox' id='exp_adbox_"+document.expAdBoxen.length+"'></div>");
+document.expAdBoxen[document.expAdBoxen.length]='http://adserver.experience.com/adjs.php?n=__PHPADSRANDOM__&amp;what=zone:er_job_profile_industry,override,consulting___policy,consulting___healthcare,default&amp;userhnd=29873844&amp;block=1&amp;exclude=__PHPADSUSED__'+
+(document.referrer?'&amp;referer='+escape(document.referrer):'')+'&amp;exp_server=duke.experience.com&amp;exp_http=http&amp;exp_image_server=20110714-images.experience.com';
+//-->
+</script><br /></td>
+	</tr>
+
+<tr class="displayRow" valign="top">
+<td>
+<span class="displayLabel">Job Function:&nbsp;</span>
+<br />
+Consulting, Data Management, Database Management, Reporting, Research, Scientist, Writing
+<br /><br />
+</td>
+</tr>
+
+
+	<tr class="displayRow" valign="top">
+	<td><script language='JavaScript' type='text/javascript'><!--
+if(!document.expAdBoxen)document.expAdBoxen=new Array();
+document.write("<div class='phpadbox' id='exp_adbox_"+document.expAdBoxen.length+"'></div>");
+document.expAdBoxen[document.expAdBoxen.length]='http://adserver.experience.com/adjs.php?n=__PHPADSRANDOM__&amp;what=zone:er_job_profile_function,override,writing,database_management,scientist,reporting,research,consulting,default&amp;userhnd=29873844&amp;block=1&amp;exclude=__PHPADSUSED__'+
+(document.referrer?'&amp;referer='+escape(document.referrer):'')+'&amp;exp_server=duke.experience.com&amp;exp_http=http&amp;exp_image_server=20110714-images.experience.com';
+//-->
+</script><br /></td>
+	</tr>
+
+<tbody class="descriptionblock">
+<!-- begin decides wether to display affiliation or core description -->
+	
+		<tr class="displayRow" valign="top">
+<td>
+<span class="displayLabel">Description:&nbsp;</span>
+<br />
+Senior Scientist - Health Economics and Outcomes Research <BR><BR>Imagine working in one of the most exciting and professionally satisfying industries anywhere. Imagine being involved in cutting-edge projects on a daily basis. At Covance, your imagination, your dedication, and your drive to find solutions to challenging projects begin on your very first day. Covance is one of the world's largest and most respected contract research organizations. Our clients are a Who's Who of the pharmaceutical and biotechnology industry. If you're looking for a diverse and stimulating work environment, you'll find it at Covance.<BR><BR>Position Summary:<BR>The Senior Scientist manages client engagements, directing the collection and analysis of primary and secondary data and formulating strategic advice for clients. The Senior Scientist provides subject matter expertise in at least one core service line within health economics and outcomes research (e.g. patient-reported outcomes, pharmacoeconomics).&nbsp;&nbsp;<BR><BR>Responsibilities:<BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Manages teams of consultants and collaborates with managers in other divisions on consulting projects <BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervises qualitative and quantitative data collection and analyses<BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prepares and presents findings based on results of analyses and develops recommendations <BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participates in defining scope of work and preparing proposals<BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Generates repeat business<BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trains and mentors junior staff<BR><BR>Required Skills:<BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong Excel modeling skills preferred (e.g., cost-effectiveness analysis, budget impact analysis)<BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Typically holds a Doctoral Degree in Health Services Research, Outcomes Research, Health Technology Assessment, Public Health Management, Clinical Science, Medicine or other related discipline with proven success in core service line&nbsp;&nbsp;<BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Several years experience of successful relevant research and/or consulting experience<BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong communication, organization, analytical and project management skills<BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Demonstrated ability to prioritize and manage workload to meet project deadlines<BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to work in a fast-paced, dynamic environment<BR><BR>To apply, please visit our website at www.covancecareers.com and submit your resume to (Req #14240).<BR><BR>At Covance, we help make the miracles of medicine a reality. We offer opportunities to work on diverse, challenging projects with bright, interesting colleagues, while building a flexible and rewarding career.
+<br /><br />
+</td>
+</tr>
+
+	
+<!-- end decides wether to display affiliation or core description -->
+</tbody>
+
+
+
+
+
+</table>
+	
+		
+	<span class="displayLabel contactLabel">Contact Information:</span><br />
+<span class="displayValue contactText">
+				 
+					 Cathy Goehre
+				
+				
+<br />				
+
+
+
+
+
+
+
+
+</span>
+<br />
+<table cellpadding="0" cellspacing="0" border="0">
+
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0">
+		
+		<tr class="displayRow" valign="top">
+<td>
+<span class="displayLabel">Application Deadline:&nbsp;</span>
+<br />
+7/25/11
+<br /><br />
+</td>
+</tr>
+
+		
+		
+		
+		
+		
+		
+</table>
+
+
+
+
+
+
+ 
+
+	</div>
+<!-- begin preferred qualifications -->
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+	<div class="applicationqualifications">
+	
+	<h2>Application Qualifications</h2>
+	  <div class="applicationqualifytext">
+
+
+		<span class="displayLabel">Desired Attributes</span>
+		 <span class="displayValue">
+		The following attributes are desired for this position.
+		<ul>
+		
+			<li style="margin:10px 0px 5px 0px;"><span class="inputLabelSM">Desired Degree:</span>
+			Doctoral Degree</li>
+		
+		
+			<li style="margin-bottom:5px;"><span class="inputLabelSM">Desired Major/Concentration:</span>
+			Public Policy Studies (AB)</li>
+		
+		
+			<li style="margin-bottom:5px;"><span class="inputLabelSM">Desired Student Status:</span>
+			Alumnus/a</li>
+		
+		
+		
+			<li style="margin-bottom:5px;"><span class="inputLabelSM">Desired Work Authorization Status:</span>
+			Permanent U.S. Resident, U.S. Citizen or U.S. National</li>
+		
+		
+		</ul>
+		</span>
+	
+	  </div>
+	
+</div>
+
+
+
+
+
+
+ 
+
+<!-- end preferred qualifications -->
+		<!-- how to apply goes here -->
+		<a name="apply"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+<div class="applysection">
+<h3 class="applyhead">How To Apply</h3>
+<div class="applybox">
+<p>Applications for this position will be accepted between
+6/13/11
+and
+7/25/11.<br />
+</p>
+
+<p><span class="displayLabel">Offline Applications Accepted</span></p>
+	<span class="displayLabel">Cover Letter Required:&nbsp;</span><br />
+No
+<div id="idApplyBtn" style="margin-top: 10px">
+
+<div class="primary"><a href="/stu/partner_redirect?partner=1649&activityType=16301&productHnd=1&entityHnd=27489779&redURL=http%3A%2F%2Fwww.covancecareers.com" target="_blank" ><img src="http://20110714-images.experience.com/images2/stratego/buttons/std_btn_apply.gif" border="0" alt="Apply" width="83" heigth="17" /></a></div>
+
+</div>
+<div id="idOfflineInstr" style="display:none;">
+
+<span style="background:#FFFFCC;">You can currently apply at the following site:</span><br />
+&gt;<a target="_blank" href="http://www.covancecareers.com">Click here to apply</a><br />
+<br />
+
+</div>
+
+<div id="idOfflineAddl" >
+
+<strong>Additional Offline Application Instructions</strong><br />
+To apply, please visit our website at www.covancecareers.com and submit your resume to (Req #14240).<br />
+<br />
+
+</div>
+			
+
+<p><span class="displayLabel">Other Requested Materials</span>
+Writing Sample Requirements Are As Follows:<BR><BR>1) Any length <BR>2) Any topic <BR><BR>The writing sample must be your original work and unedited by anyone other than yourself.
+</p>
+		
+
+
+</div>
+</div>
+
+
+
+
+
+
+ 
+
+</div>
+		<!-- end how to apply goes here -->
+<div class="employerinfo">
+		
+		<!--    <div id="research">
+      <div class="researchHeader">Employer Research</div>
+      <div class="researchContent">
+
+		<p>Search Google for more information on this employer.</p>
+
+							<img src="http://20110714-images.experience.com/images2/misc/bullet_green.gif" alt="" width="3" height="5" border="0"  />&nbsp;<a class="link_notes" href="/alumnus/web_results?qualifier=Covance+Market+Access+Services&source=2">Covance Market Access Services</a><br />
+					<img src="http://20110714-images.experience.com/images2/misc/bullet_green.gif" alt="" width="3" height="5" border="0"  />&nbsp;<a class="link_notes" href="/alumnus/web_results?qualifier=jobs+at+Covance+Market+Access+Services&source=2">jobs at Covance Market Access Services</a><br />
+					<img src="http://20110714-images.experience.com/images2/misc/bullet_green.gif" alt="" width="3" height="5" border="0"  />&nbsp;<a class="link_notes" href="/alumnus/web_results?qualifier=careers+with+Covance+Market+Access+Services&source=2">careers with Covance Market Access Services</a><br />
+					<img src="http://20110714-images.experience.com/images2/misc/bullet_green.gif" alt="" width="3" height="5" border="0"  />&nbsp;<a class="link_notes" href="/alumnus/web_results?qualifier=internships+at+Covance+Market+Access+Services&source=2">internships at Covance Market Access Services</a><br />
+					<img src="http://20110714-images.experience.com/images2/misc/bullet_green.gif" alt="" width="3" height="5" border="0"  />&nbsp;<a class="link_notes" href="/alumnus/web_results?qualifier=Covance+Market+Access+Services+financials&source=2">Covance Market Access Services financials</a><br />
+				<div class="googleLogo"><img src="http://20110714-images.experience.com/images2/partners/google_search.gif" alt="" border="0" /></div>
+	</div>
+
+	<div class="tahomaHeader">Similar Jobs</div>
+	<div class="mainContent">
+
+		<span class="displayLabel" style="font-size:10px;">View More Jobs...</span><br />
+					<form name="loc" method="post">
+								<input type="hidden" name="addr_hnd" value="79692451" />
+								<input type="hidden" name="addr_hnd" value="79692452" />
+								<input type="hidden" name="location_search" value="true" />
+				<div style="margin:2px 0px 4px 0px;"><img src="http://20110714-images.experience.com/images2/misc/arrow_orange_sm.gif" alt="" width="3" height="5" border="0"  /> <a href="javascript:document.loc.submit();">in this <strong>location</strong></a></div>
+			</form>
+		
+							<form name="ind" action="/stu/job_search" method="post">
+				<input type="hidden" name="action" value="search" />
+				<input type="hidden" name="oneClick" value="true" />
+				<input type="hidden" name="BoJobSearch21" value="11750" />
+									<input type="hidden" name="BoJobSearch63" value="2708300" />
+									<input type="hidden" name="BoJobSearch63" value="2708301" />
+								<div style="margin-bottom:4px;"><img src="http://20110714-images.experience.com/images2/misc/arrow_orange_sm.gif" alt="" width="3" height="5" border="0"  /> <a href="javascript:document.ind.submit();">with the same <strong>industries</strong></a></div>
+			</form>
+		
+							<form name="fun" action="/stu/job_search" method="post">
+				<input type="hidden" name="action" value="search" />
+				<input type="hidden" name="oneClick" value="true" />
+				<input type="hidden" name="BoJobSearch21" value="11750" />
+									<input type="hidden" name="BoJobSearch5" value="2708412" />
+									<input type="hidden" name="BoJobSearch5" value="2708437" />
+									<input type="hidden" name="BoJobSearch5" value="2708444" />
+									<input type="hidden" name="BoJobSearch5" value="2708669" />
+									<input type="hidden" name="BoJobSearch5" value="2840825" />
+									<input type="hidden" name="BoJobSearch5" value="2863427" />
+									<input type="hidden" name="BoJobSearch5" value="3085560" />
+								<div style="margin-bottom:4px;"><img src="http://20110714-images.experience.com/images2/misc/arrow_orange_sm.gif" alt="" width="3" height="5" border="0"  /> <a href="javascript:document.fun.submit();">with the same <strong>job functions</strong></a></div>
+			</form>
+		
+							<div style="margin-bottom:4px;"><img src="http://20110714-images.experience.com/images2/misc/arrow_orange_sm.gif" alt="" width="3" height="5" border="0"  /> <a href="/er/stu/employer/employer_job_list.jsp?employer_hnd=4322899">being recruited by this <strong>employer</strong></a></div>
+		
+	</div>-->
+	
+
+	      <div class="googleHeader">Ads by Google</div>
+      <div class="googleContent">
+		<script>createGoogleFrame("/shared/google_iframe.jsp?keyword=Engineering+-+Biochemical%2FBiomedical+articles&layout=notitle&max=4", "exp_job_search_results");</script>
+      </div>
+</div>
+	
+
+
+
+
+		
+		<br />
+		<script language='JavaScript' type='text/javascript'><!--
+if(!document.expAdBoxen)document.expAdBoxen=new Array();
+document.write("<div class='phpadbox' id='exp_adbox_"+document.expAdBoxen.length+"'></div>");
+document.expAdBoxen[document.expAdBoxen.length]='http://adserver.experience.com/adjs.php?n=__PHPADSRANDOM__&amp;what=zone:er_job_profile_right_column,override,default&amp;userhnd=29873844&amp;block=1&amp;exclude=__PHPADSUSED__'+
+(document.referrer?'&amp;referer='+escape(document.referrer):'')+'&amp;exp_server=duke.experience.com&amp;exp_http=http&amp;exp_image_server=20110714-images.experience.com';
+//-->
+</script>
+		<br />
+		<script language='JavaScript' type='text/javascript'><!--
+if(!document.expAdBoxen)document.expAdBoxen=new Array();
+document.write("<div class='phpadbox' id='exp_adbox_"+document.expAdBoxen.length+"'></div>");
+document.expAdBoxen[document.expAdBoxen.length]='http://adserver.experience.com/adjs.php?n=__PHPADSRANDOM__&amp;what=zone:er_job_profile_right_column_2p,override,major_2708564,gender_1891548,organization_0,school_20972,ethnicity_1891537,gradyear_2012,default&amp;userhnd=29873844&amp;block=1&amp;exclude=__PHPADSUSED__'+
+(document.referrer?'&amp;referer='+escape(document.referrer):'')+'&amp;exp_server=duke.experience.com&amp;exp_http=http&amp;exp_image_server=20110714-images.experience.com';
+//-->
+</script>
+</div><div style="clear:both;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+-->
+</div>
+</div>
+<br>
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td id="left" width="50%">
+		Copyright &copy;<script type="text/javascript">document.write(new Date().getFullYear());</script> <a href="http://www.experience.com" target="_blank">Experience, Inc.</a> - All Rights Reserved<br />
+			<a href="/experience/privacyPolicy" target="_blank">Privacy Policy</a>&nbsp;|&nbsp;<a href="/experience/terms_of_service" target="_blank">Terms of Service</a>
+			
+							&nbsp;|&nbsp;<a href="/stu/site_map">Site Map</a>
+					</td>
+		<td valign="bottom" id="right" height="36" width="50%" align="right"><a href="http://www.experience.com" target="_blank"><img src="http://20110714-images.experience.com//images2/experience_footer_logo.gif" width="126" height="34" alt="Experience - Internships, Entry-level Jobs and Career Management" title="Experience - Internships, Entry-level Jobs and Career Management" border="0"/></a></td>
+	</tr>
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+if(document.expAdBoxen)loadAdBox();
+</script>
+<!-- Start of GA Logging Code -->
+<script type="text/javascript">
+try{
+      var _gaq = _gaq || [];
+		//_gaq.push(_setCustomVar(1,'class','unknown', 2));
+	  _gaq.push(['_setCustomVar', 1, 'class', 'unknown', 2 ]);
+	   
+      	  											_gaq.push(['_setCustomVar', 2, 'role', 'student', 2 ]);
+							        
+			_gaq.push(['_setCustomVar', 4, 'reg', '28719700', 2 ]);
+      
+	  _gaq.push(['_setCustomVar', 3, 'prod', 'er', 2 ]);
+	  _gaq.push(['_setCustomVar', 5, 'rt', 'unknown', 2 ]);
+	  
+      _gaq.push(['_setAccount', 'UA-822818-1']);
+      _gaq.push(['_setDomainName', '.experience.com']);
+      _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+}catch(Exception){}  
+</script>
+<!-- End of GA Logging Code -->
+</body>
+</html><!-- END HTML  -->
+
+
+
+
+
+ 

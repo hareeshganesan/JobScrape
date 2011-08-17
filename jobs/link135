@@ -1,0 +1,1220 @@
+<html>
+<head>
+<!--
+SERVER_NAME: app3.experience.com
+PAGE_NAME: job_profile.jsp
+-->
+<title>Job: Civil Engineer - USDA Forest Service SCEP Position</title>
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/grid.css" />
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/formatting.css" />
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/er_main.css" />
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/main.css" />
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/grid.css" />
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/lib/grid.css" />
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/modalbox2.css" />
+<link rel="stylesheet" type="text/css" href="http://20110714-images.experience.com/css/http/stu_page.css" />
+<style type="text/css">
+.secondary	{background-color:#0000CC;}
+.primary		{background-color:#000099;}
+table.nav a:hover {color:#0000CC;}
+</style>
+<script type="text/javascript">var IMAGE_SERVER="http://20110714-images.experience.com"</script>
+<!-- output from BoJspPage -->
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/jquerymin.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/jqueryslidemenu.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/main.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/calendar.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/prototype.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/effects.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/modalbox.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/jquery-1.4.2.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/jquery.ui.core.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/jquery.ui.accordion.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/recommendation_data_service.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/er/includes/main.js"></script>
+<script type="text/javascript"><!--
+
+var millisToWarning=1500000;
+var millisToTimeout=180000;
+var keepAlivePage="/shared/security/session_keepalive.jsp";
+initialTimeout();
+var isPopup=false;
+//-->
+</script>
+</head>
+<body bgcolor="#FFFFFF" onload="__onload();">
+<form name="logoutform" action="/er/security/logout.jsp"><input type="hidden" name="auto" value="" /></form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+function submitWebSearch() {
+	var val = document.forms._webSearch.qualifier.value;
+	val = val.trim();
+	if (val == "search the web") document.forms._webSearch.qualifier.value = '';
+	if (val == '' || val == "search the web") alert("Your Search box is empty.  Please enter one or more search words.");
+	else document.forms._webSearch.submit();
+}
+</script>
+
+<link href="http://20110714-images.experience.com/css/corp_page.css" rel="stylesheet" type="text/css"/>
+
+<style>
+
+
+	#welcome_div {
+	height:auto;
+	width:780px;
+	text-align:right;
+	display:block;
+	clear:right;
+	padding-bottom:5px;
+	}
+
+	#dashed_line {
+	height:6px;
+	width:780px;
+	display:block;
+	background:url(http://20110714-images.experience.com/images2/nav/texture_bg.gif) repeat-x;
+	clear:right;
+	margin-bottom:0px;
+	_margin-bottom:-7px;
+	}
+
+	#secondary_rule {
+	height:7px;
+	width:780px;
+	display:block;
+	clear:right;
+	padding:-10px;
+
+	}
+
+	#content_div {
+	width:780px;
+	display:block;
+	clear:none;
+	padding-bottom:7px;
+	/*border-bottom:7px solid #454444;*/
+	border-top:7px solid #0000CC;
+	text-align:left;
+	background:url(http://20110714-images.experience.com/images2/nav/gradient.png) repeat-x bottom left #000099;
+
+	}
+
+	#innercontent_div {
+	background-color:#FFF;
+	width:766px;
+	margin:0px 7px 0px 7px;
+	}
+
+
+	#logo {
+	height:60px;
+	width:383px;
+	display:inline-block;
+	clear:none;
+	float:left;
+	text-align:left;
+	margin:0px 0px -70px 0px;
+	_margin:0px 0px 0px 0px;
+	padding:3px 0px 0px 5px;
+	}
+
+	#ad_zone {
+	height:60px;
+	width:383px;
+	display:inline-block;
+	clear:right;
+	float:right;
+	text-align:left;
+	}
+
+
+/* NAV STYLES BEGIN*/
+	.jqueryslidemenu{
+width: 766px;
+height:30px;
+background:url(http://20110714-images.experience.com/images2/nav/nav_bg.gif) repeat-x;
+clear:right;
+position:relative;
+/*z-index:1000;
+clear:both;*/
+
+}
+
+.jqueryslidemenu ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+
+}
+
+/*Top level list items*/
+.jqueryslidemenu ul li{
+position: relative;
+display: inline;
+float: left;
+
+}
+
+/*Top level menu link items style*/
+.jqueryslidemenu ul li a{
+display: block;
+background:url(http://20110714-images.experience.com/images2/nav/nav_bg.gif) repeat-x; /*background of tabs (default state)*/
+padding: 8px 10px 7px 10px;
+border-right: 2px solid #bcbcbc;
+color: #2d2b2b;
+text-decoration: none;
+
+}
+
+* html .jqueryslidemenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+ font: bold 12px arial;
+}
+
+* html .jqueryslidemenu ul li ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+font: normal 12px arial;
+}
+
+* html .jqueryslidemenu ul li ul li a:hover{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+font: normal 12px arial;
+}
+
+.jqueryslidemenu ul li a:link, .jqueryslidemenu ul li a:visited{
+color: #666;
+text-decoration:none;
+font: bold 12px arial;
+}
+
+.jqueryslidemenu ul li ul li a:link, .jqueryslidemenu ul li ul li a:visited{
+color: #666;
+text-decoration:none;
+font: normal 12px arial;
+}
+
+.jqueryslidemenu ul li a:hover{
+background: #b1b0b0; /*tab link background during hover state*/
+color: white;
+}
+
+.jqueryslidemenu ul li ul li a:hover{
+background: #b1b0b0; /*tab link background during hover state*/
+color: white;
+}
+
+/*1st sub level menu*/
+.jqueryslidemenu ul li ul{
+position: absolute;
+left: 0;
+display: block;
+visibility: hidden;
+font: normal 12px arial;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.jqueryslidemenu ul li ul li{
+display: list-item;
+float: none;
+font: normal 12px arial;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.jqueryslidemenu ul li ul li ul{
+top: 0;
+}
+
+/* Sub level menu links style */
+.jqueryslidemenu ul li ul li a{
+background: #e1dddd;
+font: normal 12px arial;
+width: 160px; /*width of sub menus*/
+padding: 5px;
+margin: 0;
+border-left: 1px solid #b1b0b0;
+border-right: 1px solid #b1b0b0;
+border-bottom: 1px solid #b1b0b0;
+}
+
+.jqueryslidemenuz ul li ul li a:hover{ /*sub menus hover style*/
+background: #eff9ff;
+font: normal 12px arial;
+color: black;
+}
+
+/* 
+.downarrowclass{
+position: absolute;
+top: 12px;
+right: 7px;
+}
+
+.rightarrowclass{
+position: absolute;
+top: 6px;
+right: 5px;
+}
+/* NAV STYLES END*/
+#secondaryColor {background-color:#0000CC;}
+#primaryColor {background-color:#000099;}
+</style>
+<!-- Toolbar includes -->
+
+
+<link href="http://20110714-images.experience.com/css/lib/navigation.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/prototype.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/scriptaculous.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/effects.js"></script>
+<!-- END Toolbar includes --><script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/modalbox.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/recommendation_data_service.js"></script>
+<script>
+  lastLoginTime = 0;
+            lastLoginTime = 1311054850000;
+        RecommedationUtil.initialize(29873844, lastLoginTime, 'http://20110714-images.experience.com');
+    RecommedationUtil.initilizeServiceUrl('$user_session.recommendedServerUrl');
+  RecommedationUtil.initializeSessionToken('84167f605e70d56ca8d5accdfbc4c8a9:1314117e842');
+  var msgArray = [];
+  var msgArray2 = [];
+  function goNetwork(sel, affhnd){
+    document.location=sel[sel.selectedIndex].value;
+    var ahnd = 1;
+    if("/alumnus/branded_home?aff=" == sel[sel.selectedIndex].value.substring(0, 26)){
+      ahnd = sel[sel.selectedIndex].value.substring(26, sel[sel.selectedIndex].value.length);
+    }else if ("/stu/" == sel[sel.selectedIndex].value.substring(0, 5)){
+      ahnd = affhnd
+    }	
+  }
+  var userid=28719700
+  
+function SwitchNetworkEventHandle(ref, affhnd){
+	try{
+		//ntptAddPair("exp_a_id", affhnd);
+		ntptEventTag('ev=switchnetwork&pv=0&rf=' + escape( ref )+'&exp_a_id='+affhnd);
+	}catch(err){
+		//alert("error occurs"+err.description);
+	}
+}
+</script>
+
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/navigator.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/navcontroller.js"></script>
+<script type="text/javascript" src="http://20110714-images.experience.com/shared/includes/navslider.js" ></script>
+<link href="http://20110714-images.experience.com/css/print.css" rel="stylesheet" type="text/css" media="print" />
+<link rel="stylesheet" href="http://20110714-images.experience.com/css/modalbox.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://20110714-images.experience.com/css/navigator.css"  type="text/css" />
+<!--[if lte IE 6]>
+<link rel="stylesheet" href="http://20110714-images.experience.com/css/navigatorie.css"  type="text/css" />
+<![endif]-->
+<div id="expBarPrint">
+  <a href="#" id="logoLink"><img src="http://20110714-images.experience.com/images2/experience_footer_logo.gif" border="0" alt="Experience"></a>
+  </div>
+<!--BEGIN TOOLBAR -->
+<div id="slider_navigator" class="loggedin">
+  <div id="slider_navinner"  class="erbar" > 
+    <div id="slider_nav2">
+  <a href="/alumnus/home" id="slider_explogo"><img src="http://20110714-images.experience.com/images2/public/nav_logo.png" alt="Experience"></a>
+  
+       
+      <div class="slider_navlinks">
+        <a href="/alumnus/recommended_job" ><img src="http://20110714-images.experience.com/images2/public/nav_jobs.png" alt="Jobs"></a> 
+        <a href="/alumnus/portfoliolanding" ><img src="http://20110714-images.experience.com/images2/public/nav_portfolio.png" alt="Portfolio"></a> 
+        <a href="/alumnus/networking" ><img src="http://20110714-images.experience.com/images2/public/nav_networking.png" alt="Networking"></a> 
+        <a href="/alumnus/recommended_content" ><img src="http://20110714-images.experience.com/images2/public/nav_guidance.png" alt="Guidance"></a> 
+      </div>
+     <!-- <a href="#" id="newrec"><img src="http://20110714-images.experience.com/images2/public/nav_newrecommend.png" alt="New Recommendations"></a>-->
+    <div id="slider_newrec">
+	<a href="#" onClick="return showRec('slider_jobs', 585)"><img src="http://20110714-images.experience.com/images2/widget/chick_jobs_on.png" id="chick_jobs" alt="Job Alert" border="0"></a>
+	<a href="#" onClick="return showRec('slider_content', 630)"><img src="http://20110714-images.experience.com/images2/widget/chick_content_on.png" id="chick_content" alt="Guidance" border="0"></a>
+	<a href="#" onClick="return showRec('slider_announce', 675)"><img src="http://20110714-images.experience.com/images2/widget/chick_announcement_on.png" id="chick_announcement" alt="Announcements" border="0"></a>
+    </div>
+
+	  <div id="slider_candacct">
+              <a href="/alumnus/create_emp?fromAlu=true" title="Employers"><img src="http://20110714-images.experience.com/images2/public/nav_employer.png" alt="Go to Employer Account"></a>
+            </div>
+      <div id="slider_loglink">
+                <a href="#" class="affhnd0"><img src="http://20110714-images.experience.com/images2/public/nav_search.png" alt="Search"></a>
+      </div>
+    </div>
+  </div>
+  <div id="slider_topnav">
+  <div id="slider_navbar">
+    <div id="slider_navtab"><img src="http://20110714-images.experience.com/images2/public/navtab.png" alt="Open"></div>
+    <div id="slider_network">
+     <p>Select Your Network:</p>
+     <ul class="arrowlist">
+      	  <li><a href="/alumnus/" onclick="SwitchNetworkEventHandle(this.href, 1);">Experience</li>
+	  	  		<li><a href="/stu/" onclick="SwitchNetworkEventHandle(this.href, 14272);" >Duke University</li>
+	  	     </ul>
+    </div>
+    <div id="slider_navinfo">
+      <div id="slider_portinfo" class="infoboxli narrowbox">
+				<ul class="narrow">
+		  <li><a href="/alumnus/portfolio?aff=0#tab_1">Profile</a></li>
+		  <li><a href="/alumnus/portfolio?aff=0#tab_2">Resumes</a></li>
+		  <li><a href="/alumnus/portfolio?aff=0#tab_3">Experiences</a></li>
+		  <li><a href="/alumnus/portfolio?aff=0#tab_4">References</a></li>
+		  <li><a href="/alumnus/portfoliotracking?aff=0">Track Portfolios</a></li>
+		</ul>
+		      </div>
+      <div id="slider_netinfo" class="infoboxli">
+		<ul>
+                                <li class="first"><a href="/alumnus/networking">Connections</a></li>
+          		</ul>
+      </div>
+      <div id="slider_guideinfo" class="infoboxli">
+        <ul>
+		  <li onMouseover="showInfoMenu2(event, this, 'businessMenu')" onMouseout="hidemenu()">
+            <a href="#">Business ></a>
+            <div id="businessMenu" class="contentList" style="display:none" onMouseover="highMenu(event, this)" onMouseout="unhighMenu(event, this)">
+				 <a href="/alumnus/channel?channel_id=finance&page_id=home">Finance</a>
+				 <a href="/alumnus/channel?channel_id=accounting&page_id=home">Accounting</a>
+				 <a href="/alumnus/channel?channel_id=consulting&page_id=home">Consulting</a>
+				 <a href="/alumnus/channel?channel_id=sales&page_id=home">Sales</a>
+            </div>
+          </li>
+		  <li onMouseover="showInfoMenu2(event, this, 'communicationsMenu')" onMouseout="hidemenu()">
+            <a href="#">Communications ></a>
+        <div id="communicationsMenu" class="contentList" style="display:none" onMouseover="highMenu(event, this)" onMouseout="unhighMenu(event, this)">
+			<a href="/alumnus/channel?channel_id=advertising_marketing_pr&page_id=home">Marketing</a>
+			<a href="/alumnus/channel?channel_id=Entertainment&page_id=home">Entertainment</a>
+			<a href="/alumnus/channel?channel_id=Sports&page_id=home">Sports</a>
+        </div>
+          </li>
+		  <li onMouseover="showInfoMenu2(event, this, 'publicserviceMenu')" onMouseout="hidemenu()">
+            <a href="#">Public Service ></a>
+            <div id="publicserviceMenu" class="contentList" style="display:none" onMouseover="highMenu(event, this)" onMouseout="unhighMenu(event, this)">
+			  <a href="/alumnus/channel?channel_id=biotech_pharma_healthcare&page_id=home">Healthcare</a>
+				<a href="/alumnus/channel?channel_id=government&page_id=home">Government</a>
+				<a href="/alumnus/channel?channel_id=education&page_id=home">Education</a>
+				<a href="/alumnus/channel?channel_id=nonprofit&page_id=home">Non-profit/NGO</a>
+            </div>
+          </li>
+		  <li onMouseover="showInfoMenu2(event, this, 'technologyMenu')" onMouseout="hidemenu()">
+            <a href="#">Technology ></a>
+            <div id="technologyMenu" class="contentList" style="display:none" onMouseover="highMenu(event, this)" onMouseout="unhighMenu(event, this)">
+				<a href="/alumnus/channel?channel_id=energy_utilities&page_id=home">Energy</a>
+				<a href="/alumnus/channel?channel_id=engineering&page_id=home">Engineering</a>
+				<a href="/alumnus/channel?channel_id=technology&page_id=home">Technology</a>
+				<a href="/alumnus/channel?channel_id=microsoft_s2b&page_id=home">Microsoft S2B</a>
+            </div>
+          </li>
+		  <li onMouseover="showInfoMenu2(event, this, 'careerresourcesMenu')" onMouseout="hidemenu()">
+            <a href="#">Resources ></a>
+            <div id="careerresourcesMenu" class="contentList contentListWide" style="display:none" onMouseover="highMenu(event, this)" onMouseout="unhighMenu(event, this)">
+              <div style="float:left">
+				<a href="/alumnus/channel?channel_id=Resumes&page_id=home">Resumes</a>
+				<a href="/alumnus/channel?channel_id=Interviews&page_id=home">Interviews</a>
+				<a href="/alumnus/channel?channel_id=Networking&page_id=home">Networking</a>
+				<a href="/alumnus/channel?channel_id=internships&page_id=home">Internships</a>
+				<a href="/alumnus/channel?channel_id=manage_your_career&page_id=home">Manage Your Career</a>
+              </div>
+              <div style="float:left">
+				<a href="/alumnus/channel?channel_id=salaries&page_id=home">Salaries</a>
+				<a href="/alumnus/channel?channel_id=advanced_degree_development&page_id=home">Grad School</a>
+				<a href="/alumnus/channel?channel_id=experience&page_id=home">Exclusive Experiences</a>
+				<a href="/alumnus/channel?channel_id=job_spotlight&page_id=home">Job Spotlight</a>
+				<a href="/alumnus/channel?channel_id=seasonal_opportunities&page_id=home">Seasonal Opportunities</a>
+              </div>
+            </div>
+          </li>
+		  <li onMouseover="showInfoMenu2(event, this, 'worklifeMenu')" onMouseout="hidemenu()">
+            <a href="#">Work Life ></a>
+            <div id="worklifeMenu" class="contentList contentListTall" style="display:none" onMouseover="highMenu(event, this)" onMouseout="unhighMenu(event, this)">
+				<a href="/alumnus/channel?channel_id=managingyourmoney&page_id=home">Manage Your Money</a>
+				<a href="/alumnus/channel?channel_id=swapping_places&page_id=home">Swapping Places</a>
+				<a href="/alumnus/channel?channel_id=Ventures_Abroad&page_id=home">Ventures Abroad</a>
+				<a href="/alumnus/channel?channel_id=entrepreneurship_guide&page_id=home">Entrepreneurs</a>
+				<a href="/alumnus/channel?channel_id=diversity&page_id=home">Diversity</a>
+            </div>
+          </li>
+		  <li><a href="/alumnus/channel?channel_id=green&page_id=home">Experience Green</a></li>
+        </ul>
+      </div>
+    </div>
+    <img src="http://20110714-images.experience.com/images2/public/recarrow.png" alt="" id="slider_recarrow"> 
+    <div id="slider_recinfo">
+      <div id="slider_jobs" class="recdiv">
+      <h3><a href="/alumnus/recommended_job" class="alllink" title="View All Job Matches"><img src="http://20110714-images.experience.com/images2/public/nav_viewall.png" alt="View All Job Matches"></a>Job Matches</h3>
+	  <span id="job_list">
+		Loading job matches...<br><br>
+	  </span>
+      </div>
+      <div id="slider_content" class="recdiv" style="display:none">
+      <h3><a href="/alumnus/recommended_content" class="alllink" title="View All Articles and Advice"><img src="http://20110714-images.experience.com/images2/public/nav_viewall.png" alt="View All Articles and Advice"></a>Recommended <br>Articles &amp Advice</h3> 
+	  <span id="content_list">
+		Loading recommended content....<br><br>
+	  </span>
+      </div>
+      <div id="slider_announce" class="recdiv" style="display:none">
+      <h3><a href="/alumnus/recommended_announcement" class="alllink" title="View All Announcements"><img src="http://20110714-images.experience.com/images2/public/nav_viewall.png" alt="View All Announcements"></a>Announcements</h3>
+	  <span id="announcement_list">
+		Loading Announcements....<br><br>
+	  </span>
+      </div>
+    </div>
+    <div id="slider_updateprofile">
+      <img src="http://20110714-images.experience.com/images2/public/arrowleft.png"><p>To get better results be sure to <a href="/alumnus/portfolio">update your profile</a>.</p>
+	</div>
+    <div id="slider_search" class="affhnd0">
+      <form action="/alumnus/membersearch"  id="cse-search-box" style="margin: 0px; padding: 0px;">
+      <input type="hidden" name="cx" value="007710001029318733977:hjlig2hemcy" />
+      <input type="hidden" name="cof" value="FORID:11" />
+      <input type="hidden" name="ie" value="UTF-8" />
+      <input type="text" class="textinput" name="q" value="Search Experience" onFocus="fixField(this, 'Search Experience')" onBlur="checkField(this, 'Search Experience')" />
+      <div class="slider_button"><input type="submit" value="Search"></div>
+    </div>
+      </div>
+  </div>
+</div>
+
+<div id="erpop"><div id="erinnerpop">
+<p>To return to your school now click the link below:</p>
+	  			<a href="/stu/" onclick="SwitchNetworkEventHandle(this.href, 14272);">
+				<img src="http://20110714-images.experience.com/images2/schools/000/014/14272_thumb.gif" alt="Duke University" border="0"/>
+			</a>
+	  <p class="note">You can always return to your school and get to any of your networks by selecting from the "Select a Network" drop down in the toolbar.</p>
+<div class="nocheck"><input type="checkbox" id="noshow"> </form>Don't remind me again</div>
+<div class="closelink"><a href="#" onClick="hideSticky()">Close</a></div>
+<div class="clearme"></div>
+</div></div>
+
+
+<div id="toolbar_confirm" class="confirmationPage" style="display:none"></div>
+<script type="text/javascript">
+var showStick= false ;
+function showSticky(){
+	if(RecommedationUtil.getCookie("expSticky")!="true"){
+	  if(showStick){
+		 var popleft = null;
+		 if (document.all)
+		 popleft=(document.body.clientWidth/2)-440;
+		 else
+		 popleft=((document.documentElement.clientWidth-760)/2)-60;
+		 var popwin=$('erpop');
+		 new Effect.Move(popwin, { x: popleft, y: 130, mode: 'absolute' });
+		//     Effect.Appear('erpop', { duration: 1.5 });
+		//     $('erpop').show();
+	}
+   }
+}
+function hideSticky(){
+  $('erpop').hide()
+  if($('noshow').checked){
+    var expireDate = new Date;
+    expireDate.setFullYear(2050)
+    RecommedationUtil.createCookie("expSticky", "true", expireDate)
+  }
+}
+
+
+
+	loadAllChicklets();
+	Event.observe(window, 'load', function() {
+		showSticky();
+	});
+</script>
+
+<!--[if lte IE 7]>
+<style type="text/css">
+html .jqueryslidemenu{height: 1%;} /*Holly Hack for IE7 and below*/
+</style>
+<![endif]-->
+
+<div align="center">
+
+<div id="welcome_div">Welcome, <strong>Hareesh</strong> &nbsp;|&nbsp; <a href="/er/security/logout.jsp" style="color:blue;text-decoration:underline;">Sign Out</a> &nbsp;|&nbsp; <a href="/er/help/student_online_help.jsp" style="color:blue;text-decoration:underline;">Help</a></div>
+<div id="dashed_line"></div>
+<div id="content_div">
+<div id="innercontent_div">
+<div id="logo"><img src="http://20110714-images.experience.com/images2/schools/000/014/14272.gif" border="0" alt="" /></div>
+<div id="ad_zone"><script language='JavaScript' type='text/javascript'><!--
+if(!document.expAdBoxen)document.expAdBoxen=new Array();
+document.write("<div class='phpadbox' id='exp_adbox_"+document.expAdBoxen.length+"'></div>");
+document.expAdBoxen[document.expAdBoxen.length]='http://adserver.experience.com/adjs.php?n=__PHPADSRANDOM__&amp;what=zone:er_student_nav,override,technology___internet_e_commerce,engineering___biochemical_biomedical,engineering___electrical,technology___hardware,technology___electronics,finance_banking___corporate_finance,finance_banking___consumer_retail_banking,finance_banking___financial_services_planning,finance_banking___investment_banking,technology___software,engineering,engineering___computer,telecommunications,male,technology___information_systems,finance_banking___commercial_banking,finance_banking___venture_capital,default&amp;userhnd=29873844&amp;block=1&amp;exclude=__PHPADSUSED__'+
+(document.referrer?'&amp;referer='+escape(document.referrer):'')+'&amp;exp_server=duke.experience.com&amp;exp_http=http&amp;exp_image_server=20110714-images.experience.com';
+//-->
+</script></div>
+<div id="myslidemenu" class="jqueryslidemenu">
+<ul>
+<li><a href="/stu/">Home</a></li>
+<li><a href="#">Profile</a>
+	<ul>
+	<li><a href="/er/stu/profile/personal_info.jsp">View/edit Profile Data</a></li>
+	<li><a href="https://duke.experience.com/er/student/student_change_passwd.jsp">Change Your Password</a></li>    </ul></li>
+<li><a href="#">Documents</a>
+	<ul>
+	<li><a href="/er/stu/document/document_upload_type.jsp">Upload a Document</a></li>
+	<li><a href="/er/stu/resumebooks/publish_resumes.jsp">Publish a Resume</a></li>
+	<li><a href="/stu/document_main">Your Resumes</a></li>
+	<li><a href="/stu/document_main?category=1501">Your Cover Letters</a></li>
+	<li><a href="/stu/document_main?category=1502">Your Writing Samples</a></li>
+	<li><a href="/stu/document_main?category=1503">Your Other Documents</a></li>
+	</ul></li>
+<li><a href="#">Applications</a>
+	<ul>
+    <li><a href="/er/stu/application/app_active.jsp">Your Active Applications</a></li>
+	<li><a href="/er/stu/application/app_historical.jsp">Your Past Applications</a></li>	</ul></li>
+<li><a href="#">Calendar</a>
+	<ul>
+	<li><a href="/er/stu/calendar/career_center_calendar_view.jsp">Career Center calendar</a></li>
+	<li><a href="/er/stu/calendar/career_center_calendar.jsp">Calendar Search</a></li>
+	<li><a href="/er/stu/calendar/index.jsp">Your Upcoming Events</a></li>
+	</ul></li>
+
+<li style="float:right;"><a href="#" style="border-right: 2px solid transparent;">Employers</a>
+    <ul>
+	<li><a href="/er/employer/employer_search.jsp">Employers Search</a></li>
+	<li><a href="/er/stu/employer/emp_folders.jsp">Favorite Employers</a></li>
+	</ul></li>
+<li style="float:right;"><a href="#">Jobs &amp; Internships</a>
+	<ul>
+	<li><a href="/stu/job_search">Job/Internship Search</a></li>
+	<li><a href="/er/stu/opportunities/job_folders.jsp">Favorite Jobs</a></li>
+	</ul></li>
+</ul>
+</div>
+
+
+<!-- share this for all users -->
+
+<table width="750" border="0" cellspacing="0" cellpadding="0" style="margin-top:10px;">
+<tr>
+<td width="10"><img src="http://20110714-images.experience.com/images2/stratego/misc/clear.gif" width="10" height="1" border="0" alt="" /></td>
+
+<td width="730">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<script language='JavaScript' type='text/javascript'><!--
+if(!document.expAdBoxen)document.expAdBoxen=new Array();
+document.write("<div class='phpadbox' id='exp_adbox_"+document.expAdBoxen.length+"'></div>");
+document.expAdBoxen[document.expAdBoxen.length]='http://adserver.experience.com/adjs.php?n=__PHPADSRANDOM__&amp;what=zone:er_job_profile_top_banner_emp,override,default&amp;userhnd=29873844&amp;block=1&amp;exclude=__PHPADSUSED__'+
+(document.referrer?'&amp;referer='+escape(document.referrer):'')+'&amp;exp_server=duke.experience.com&amp;exp_http=http&amp;exp_image_server=20110714-images.experience.com';
+//-->
+</script>
+<div class="job_layouthead">
+
+<h1>Civil Engineer - USDA Forest Service SCEP Position </h1>
+<div class="joblinks">
+		<a class="link_notes"" href="javascript:" onClick="popup('email_to_friend.jsp?job_hnd=27574654&affiliation_hnd=14272','','555','400','no','no','no','no','no','no');return false;">Email Job</a><!--
+		-->&nbsp;|&nbsp;<!--
+		--><a class="link_notes" href="/er/shared/folder_create_choose.jsp?folder_hnd=-1&folder_type=11551">Add to Favorite Jobs</a>
+</div>
+<div class="employerslink">
+	
+	  
+		<a href="/er/stu/employer/employer_profile.jsp?employer_hnd=5884441">See other jobs, upcoming events and more at USDA Forest Service</a>
+	  
+	
+</div>
+<!-- branding -->
+</div>
+
+
+
+
+
+
+ 
+</td>
+<td width="10"><img src="http://20110714-images.experience.com/images2/stratego/misc/clear.gif" width="10" height="1" border="0" alt="" /></td>
+
+<tr>
+<td colspan="3"><img src="http://20110714-images.experience.com/images2/stratego/misc/clear.gif" alt="" width="1" height="10" border="0" /></td>
+</tr>
+
+
+</table>
+
+<!-- end common for all users -->
+<script  language="javascript" src="http://20110714-images.experience.com/er/includes/overlib.js"></script>
+<div id="navtxt" class="tooltip2"></div>
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/css/jobTemplates.css" />
+
+<div class="job_layout" style="padding-top:0">
+
+
+	
+
+
+
+<!--String empNameEncoded = HtmlUtil.encodeUrlParam( emp.getEmployerName() ); -->
+
+	<p style="margin:0 0 6px 18px"><a href="/alumnus/hoovers_search_results?action=search&name=USDA%20Forest%20Service">Search for USDA Forest Service</a>  on <a href="/alumnus/hoovers_search_results?action=search&name=USDA%20Forest%20Service" class="hooverlogo"><img src="/images2/partners/sm_hoovers.gif" alt="" border="0" style="vertical-align:middle"></a></p>
+
+	<div class="jobinfo">
+	  <div class="joboverview">
+		<h2>Job Information</h2>
+	  <div class="joboverviewPart1">
+		  
+					<span class="displayLabel">Date Posted:</span>
+					<span class="displayValue">
+					7/05/11
+					</span>
+
+
+					<span class="displayLabel">Pay Type:</span>
+					<span class="displayValue">
+					Paid
+					</span>
+
+
+					<!-- begin brought to you by link -->
+					<span class="displayLabel">Brought to You By:</span>
+					<span class="displayValue displayLogo">
+					
+								<img src="http://20110714-images.experience.com/images2/schools/000/014/14272_thumb.gif"
+									alt="Duke University"><br/>
+					
+					<!-- end brought to you by link -->
+					</span>
+	  </div>
+	  <div class="joboverviewPart2">
+					<span class="displayLabel">Opportunity Type:</span>
+					<span class="displayValue">
+					Job
+					</span>
+					<span class="displayLabel">Job Status:</span>
+					<span class="displayValue">
+					Part-Time
+					</span>
+
+	  </div>
+	</div>
+			<!-- marked as inappropriate -->
+			
+
+	<div class="interviewschedules">
+	<h2>Interview Schedules</h2>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+	  <p>This job does not currently have an interview schedule attached to it.</p>
+
+
+
+
+
+
+
+
+ 
+
+	</div>
+	
+	<div class="jobdetails">
+	<h2>Description & Details</h2>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+<table cellpadding="0" cellspacing="0" border="0">
+		<!-- begin location -->
+		
+			<tr>
+				<td>
+					<span class="displayLabel">Location:</span><br>
+					
+						New Ellenton, South Carolina<br />
+					
+					<br />
+				</td>
+			</tr>
+		
+		<!-- end location -->
+
+<tr class="displayRow" valign="top">
+<td>
+<span class="displayLabel">Industry:&nbsp;</span>
+<br />
+Sciences - Natural Sciences
+<br /><br />
+</td>
+</tr>
+
+
+	<tr class="displayRow" valign="top">
+	<td><script language='JavaScript' type='text/javascript'><!--
+if(!document.expAdBoxen)document.expAdBoxen=new Array();
+document.write("<div class='phpadbox' id='exp_adbox_"+document.expAdBoxen.length+"'></div>");
+document.expAdBoxen[document.expAdBoxen.length]='http://adserver.experience.com/adjs.php?n=__PHPADSRANDOM__&amp;what=zone:er_job_profile_industry,override,sciences___natural_sciences,default&amp;userhnd=29873844&amp;block=1&amp;exclude=__PHPADSUSED__'+
+(document.referrer?'&amp;referer='+escape(document.referrer):'')+'&amp;exp_server=duke.experience.com&amp;exp_http=http&amp;exp_image_server=20110714-images.experience.com';
+//-->
+</script><br /></td>
+	</tr>
+
+<tr class="displayRow" valign="top">
+<td>
+<span class="displayLabel">Job Function:&nbsp;</span>
+<br />
+Engineering
+<br /><br />
+</td>
+</tr>
+
+
+	<tr class="displayRow" valign="top">
+	<td><script language='JavaScript' type='text/javascript'><!--
+if(!document.expAdBoxen)document.expAdBoxen=new Array();
+document.write("<div class='phpadbox' id='exp_adbox_"+document.expAdBoxen.length+"'></div>");
+document.expAdBoxen[document.expAdBoxen.length]='http://adserver.experience.com/adjs.php?n=__PHPADSRANDOM__&amp;what=zone:er_job_profile_function,override,engineering,default&amp;userhnd=29873844&amp;block=1&amp;exclude=__PHPADSUSED__'+
+(document.referrer?'&amp;referer='+escape(document.referrer):'')+'&amp;exp_server=duke.experience.com&amp;exp_http=http&amp;exp_image_server=20110714-images.experience.com';
+//-->
+</script><br /></td>
+	</tr>
+
+<tbody class="descriptionblock">
+<!-- begin decides wether to display affiliation or core description -->
+	
+		<tr class="displayRow" valign="top">
+<td>
+<span class="displayLabel">Description:&nbsp;</span>
+<br />
+OPENING DATE:&nbsp;&nbsp;July 5, 2011<BR>CLOSING DATE:&nbsp;&nbsp;August 5, 2011<BR><BR>WHAT IS THE FEDERAL STUDENT EDUCATIONAL EMPLOYMENT PROGRAM? The Federal Student Educational Employment Program consists of two components, the:&nbsp;&nbsp;Student Temporary Employment Program (STEP) and Student Career Experience Program (SCEP).<BR><BR>The STEP is an appointment where students are hired into positions not to exceed one year.&nbsp;&nbsp;The nature of the duties does not have to be related to the student's academic/career goals, but does provide students with some form of work experience.<BR><BR>The SCEP on the other hand, is designed to integrate classroom study with paid work experience, with the objective of preparing the student for responsible placement into the Forest Service's permanent workforce. The program is conducted in accordance with a planned schedule and a working agreement between the Forest Service, student, and the accredited educational institution. Students learn what it is like to work for the Forest Service, while earning money, and gaining valuable first-hand work experience that is directly related to what they are studying, or related to their career goals. <BR><BR>This Recruitment Bulletin is specific to the SCEP.&nbsp;&nbsp;<BR><BR>WHO DOES THE SOUTHERN REGION RECRUIT FOR THE SCEP? This Bulletin is aimed primarily at students pursuing a bachelor's degree, and those students pursuing masters or doctoral degrees in a field which, upon graduation, will provide the academic background, knowledge, and skills required for the target position. Students must complete a minimum of 640 hours of work experience prior to graduation. See Student Eligibility Requirements section of this Bulletin for more information.&nbsp;&nbsp;For more information on student programs visit our website at http://www.fs.fed.us/fsjobs/jobs_students.html. <BR><BR>HOW TO APPLY:&nbsp;&nbsp;Complete and submit the following documents via surface mail. The forms may be obtained at http://www.usajobs.gov/infocenter/forms.asp#icc or from the address listed in the "Where to Send" section. You must submit the following documents in order for your application to be considered complete.<BR><BR>1.&nbsp;&nbsp;Student Career Supplemental Information Sheet (Attached). <BR><BR>2.&nbsp;&nbsp;Resume which must include the following information (in addition to specific information requested elsewhere in this Recruitment Bulletin): <BR><BR>Recruitment Bulletin Number: Savannah-River-0836-01, veterans' preference (if claiming), last four digits of your social security number, all work experience (with start and end dates using month/year), education, training, self-development, awards, commendations, outside activities, or other information relevant to the target occupation. <BR><BR>3. Copy of college transcript(s) if currently enrolled in college/university or letter of acceptance of enrollment if not yet enrolled but have been officially accepted for enrollment in the coming semester/quarter. <BR><BR>4. Copy of DD-214 form, Report of Separation from Active Duty, must be received with your application package if you are claiming veterans' preference and must show the type of discharge. Additional documentation may be required; however, generally, preference is granted to veterans who entered military service prior to October 14, 1976; or served on active duty during the period August 2, 1990 through January 2, 1992, and who are otherwise eligible; or who served in a military action for which they received a Campaign Badge or Expeditionary Medal. This includes the Armed Forces Expeditionary Medal (AFEM) awarded to those who participated in Operation Joint Endeavor or Operation Joint Guard. Refer to www.opm.gov/veterans.<BR><BR>5. SF-15, Claim for 10-Point Veterans' Preference, as well as proof required on the form, if you are claiming compensable disability preference. Individuals may be entitled to veterans' preference if you are a disabled veteran; if you have received a Purple Heart; you are the spouse or mother of a disabled veteran; or you are the widow, widower, or mother of a deceased veteran. Refer to http://www.opm.gov/forms/pdf_fill/SF15.pdf.<BR><BR>WHO WE ARE AND WHAT WE DO:&nbsp;&nbsp;Established in 1905, the Forest Service is an agency of the U.S. Department of Agriculture (USDA). The USDA Forest Service administers programs for applying sound conservation and utilization practices to natural resources of the national forests and national grasslands, for promoting these practices on all forest lands through cooperation with states and private landowners, and for carrying out extensive forest and range research to meet the needs of present and future generations. The Forest Service is also the largest forestry research organization in the world, and provides technical and financial assistance to state and private forestry agencies. <BR><BR>National Forests are America's great outdoors. They encompass 191 million acres of land, which is an area equivalent to the size of Texas. National forests provide opportunities for recreation in open spaces and natural environments. With more and more people living in urban areas, national forests are becoming more important and valuable to Americans. People enjoy a wide variety of activities on national forests, including backpacking in remote and unroaded wilderness areas, mastering an all-terrain vehicle over a challenging trail, enjoying the views along a scenic byway, or fishing on a great trout stream, to mention just a few. <BR><BR>Gifford Pinchot, the first Chief of the Forest Service, summed up the purpose of the Forest Service – "to provide the greatest amount of good for the greatest amount of people in the long run." <BR><BR>The Forest Service has a workforce of approximately 30,000 employees that reflects the full range of diversity of the American people. This includes cultural and disciplinary diversity, as well as diversity in skills and abilities.<BR><BR>The Forest Service motto, "Caring for the Land and Serving People" captures the spirit of our mission, which we accomplish through five main activities: <BR><BR>1. Protection and management of natural resources on National Forest System lands. <BR>2. Research on all aspects of forestry, rangeland management, and forest resource utilization. <BR>3. Community assistance and cooperation with State and local governments, forest industries, and private landowners to help protect and manage non-Federal forest and associated range and watershed lands to improve conditions in rural areas. <BR>4. Achieving and supporting an effective workforce that reflects the full range of diversity of the American people. <BR>5. International assistance in formulating policy and coordinating U.S. support for the protection and sound management of the world's forest resources. <BR><BR>For more information about the Forest Service, visit our website at http://www.fs.fed.us/ .<BR><BR>DUTY LOCATION DESCRIPTION:<BR><BR>This position is located in New Ellenton, South Carolina at Savannah River. <BR><BR>Local Area Information<BR>USFS-SR is located in the Central Savannah River Area, which includes the cities of Aiken, South Carolina (15 miles from USFS-SR) and Augusta, Georgia (30 miles from USFS-SR). The Area's 2000 population was 477,000. Because the missions of the Savannah River Site are international in scope, the local communities include people from all races and cultures.&nbsp;&nbsp;The average temperature is 65 degrees and average annual rainfall is 47.5 inches.&nbsp;&nbsp; Although there is no government housing at the Savannah River Site, the apartments and houses in the area rent for $200/month-$1,000/month and sell for $50,000-$500,000 and are available in both urban and rural settings.&nbsp;&nbsp;Recreational opportunities abound in the area and include fishing, hunting, hiking, swimming, and biking.&nbsp;&nbsp;&nbsp;&nbsp;Atlanta, the Appalachian Mountains, and the Atlantic Ocean all offer excellent recreational opportunities, and are each only 2.5 hours away by car.&nbsp;&nbsp;&nbsp;&nbsp;The area is rich with Revolutionary War and Civil War historic sites throughout the region.<BR><BR>The Aiken Area<BR>Aiken, SC, a recent winner of the nationwide All American City competition, is a full-service community with one hospital, is home to the University of South Carolina-Aiken, and has a 2,000-acre public woodland in the city center.&nbsp;&nbsp;It is home to Hopelands Gardens, and the yearly "Triple Crown" horse races and polo.<BR><BR>An influx of retirees and a continued love affair with the equestrian sporting life are credited with making the Aiken area "the hottest real estate market in the state".&nbsp;&nbsp;The 2005 median price of residential homes was $134,000—which is still below the state average of $148,000.&nbsp;&nbsp;Like all of us, they want a place with an identity, where people work and live and with things to do.&nbsp;&nbsp; Aiken is very fortunate to have the aesthetic beauty and charm of a small Southern city with a cosmopolitan flair.&nbsp;&nbsp;<BR><BR>ACADEMIC MAJORS AND TARGET OCCUPATIONS: <BR><BR>The following is a list of academic majors and corresponding occupations the Southern Region, USDA Forest Service-Savannah River is recruiting for in 2011.&nbsp;&nbsp;Refer to the Office of Personnel Management Operating Manual for Qualification Standards for General Schedule Positions at http://www.opm.gov/qualifications/ for determining academic requirements. <BR><BR>Academic Major&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Number of Positions &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Target Occupation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duty Station <BR>Civil Engineering Series&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GS-810/9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New Ellenton, SC<BR><BR>OPM's qualification description for the position here:&nbsp;&nbsp;http://www.opm.gov/qualifications/Standards/IORs/gs0800/0810.htm<BR><BR>STUDENT ELIGIBILITY REQUIREMENTS: <BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must be at least 16 years old. <BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must be enrolled in or accepted to (with the intent to attend) an accredited 4-year college or university, graduate or professional school; and carry at a minimum, a half-time course load as defined by the institution. <BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must be in a degree seeking academic program. <BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must be enrolled in a field of study related to the positions being announced. <BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Persons receiving a BS degree in Civil Engineering Technology must pass the NCEES Fundamentals of Engineering Exam (FE) to be converted to a Civil Engineering position at completion of the program. <BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must be able to complete required (career-related) 640 hours of work experience prior to or concurrently with the completion of course requirements for degree. <BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must be a United States citizen or national (resident of American Samoa or Swains Island). <BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must be in good academic standing. <BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must meet security and applicable fitness requirements. <BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must sign Student Career Experience Program, Mobility, and Developmental agreements; furnish course registration information at the start of each school term; provide verification of academic status at the end of each academic term (transcripts); must meet academic standards as set forth by the school they are attending; maintain satisfactory progress in completing academic requirements; and demonstrate satisfactory performance and conduct. Students will be required to complete all academic requirements for the target position as required by the Office of Personnel Management Qualification Standards. <BR><BR>POSITION DUTIES:&nbsp;&nbsp;<BR><BR>Introductory Statement: This is a Student Trainee Position located on a Forest Service Unit. Incumbent will work with Engineering professionals to obtain training and experience in conjunction with obtaining a degree in Engineering. Incumbent will also obtain training in other functions of the Forest Service as it pertains to the job of an Engineer.<BR><BR>Student Career Development Activities in Engineering and/or Architecture Work 100%<BR>Works under the guidance of and will assist engineering/architecture professional or administrative personnel in non-routine and progressively responsible duties which are directly related to the student's academic studies and occupational career goals. Individual will perform well-defined tasks in various aspects of an engineering or architecture occupational specialty. Specific duties will be dependent upon the occupational specialty that corresponds to the college major in preparation for more difficult tasks as a professional/administrative trainee after graduation.<BR><BR>As a trainee, acquires knowledge, skills, and abilities required for the target position.<BR><BR>Reviews detailed procedural instructions and receives in-depth on-the-job and formal classroom training. Through limited and selected work assignments the trainee is exposed to the work processes. Assignments are characterized by repetition and routine for the purpose of continually providing the incumbent with experience that represents the work in the occupation.<BR><BR>Completes required formal and on-the-job training and demonstrates an increasing ability to independently accomplish assignments. Completes assigned tasks following established procedures and schedules. Recognizes the need for and solicits guidance and assistance when previous instructions do not provide adequate information.<BR><BR>Develops and coordinates contacts beneficial to the successful performance of assignments. Interacts with co-workers and supervisors, demonstrating the ability to work cooperatively with other persons.<BR><BR>Reviews pertinent regulations and style manuals governing written communications in order to learn the requirements for typing or reviewing written materials for style, grammar, and format.<BR><BR>Assists in performing the procedural tasks of the organization. Accomplishes small portions of larger clerical processes (e.g., files a group of claims or case files, or tabulates data from one type of report or one item within a group of documents) within the work unit. The assignments are given to provide exposure to individual segments of the processes that are required in the target position.<BR><BR>Performs other duties as assigned.<BR><BR>Performs wildfire suppression support as directed within training and physical capabilities.<BR><BR>BENEFITS: Forest Service employees enjoy a flexible range of benefits in their Federal government careers, including a variety of health insurance plans; a portable retirement system with investment options; paid holidays; paid sick leave and vacations; life insurance; and incentive systems. These are designed to mesh with the lives of our diverse workforce in a flexible system that allows you to match benefit choices to needs. Nearly all Forest Service locations offer flexible work schedules. Many locations provide wellness and personal counseling programs. Positions offer opportunities for personal growth.<BR><BR>SALARY:&nbsp;&nbsp;Pay will depend on qualifications based on combination of education, experience, and academic performance. Students' pay is determined by the General Schedule rate which covers most Federal positions and can be accessed http://www.opm.gov/oca/11tables/indexGS.asp.<BR><BR>TRAINING AND DEVELOPMENT:&nbsp;&nbsp;The Forest Service is committed to employee development through first-class training programs available throughout their career in both external coursework and internal programs featuring state-of-the-art computer-based training. Many opportunities exist for professional career development, including formal professional certification programs such as silviculture in timber management; bridge design in engineering; contracting; appraisals in lands; along with many more areas. An employee can become an expert witness for the Federal government on minerals court cases, or a Federal representative on active oil and gas exploration and production sites. Opportunities to further many careers can be found in technical training designed, developed and provided by the Forest Service for numerous occupations. Our web-based training resource center offers a variety of assessment tools, links to e-Iearning resources, links to classroom training opportunities and materials, access to articles and best practices in leadership, and a reference guide with basic facts on human resource management, ethics, and safety topics. <BR><BR>DUTIES OF STUDENT TRAINEES: Trainees work under the guidance of professional or administrative staff performing routine and progressively responsible duties which are directly related to the student's academic studies and occupational career goals. Individuals will perform well-defined tasks in various aspects of the occupational specialty. Specific duties will be dependent upon the occupational specialty that corresponds to the college major in preparation for more difficult tasks as a professional or administrative trainee after graduation.<BR><BR>PERIODS OF EMPLOYMENT/WORK REQUIREMENTS: Most periods of employment occur during the summer; however, work schedules can vary. A specific work and study schedule will be established at the time of employment. Students must complete a minimum of 640 hours of career-related experience prior to or concurrently with the completion of the course requirements for their degree. A physical exam, work capacity test, and driver's license may be required for some student positions. <BR><BR>ELIGIBILITY REQUIREMENTS FOR EMPLOYMENT AFTER GRADUATION: Students who successfully complete work and study requirements are eligible for permanent positions with the Forest Service. <BR><BR>Within 120 days after completion of course requirements for a degree, students will be eligible for non- competitive conversion to a permanent career-conditional appointment at the GS-5 or GS-7 level (Bachelor's Degree); GS-9 (Masters Degree); or GS-11 (Doctorate Degree) upon completion of the program as is outlined in the agreement which will be signed by the Forest Service, student, and university or college. Students converted at the lower grades are eligible for advancement through progressive promotions to the GS-9 level contingent upon satisfactory performance. Research scientists may be promoted based on a periodic peer review of their scientific accomplishments. Students must be a U. S. citizen at the time of conversion to a permanent (career-conditional) appointment. <BR><BR>VETERANS' PREFERENCE:&nbsp;&nbsp;Generally, preference is granted to veterans who entered military service prior to October 14, 1976; or served on active duty during the period from August 2, 1990, through January 2, 1992, and who are otherwise eligible; or who have served in a military action for which they received a Campaign Badge or Expeditionary Medal. This includes the Armed Forces Expeditionary Medal (AFEM) awarded to those who participated in Operation Joint Endeavor or Operation Joint Guard. Also, individuals may be entitled to veterans' preference if you are a disabled veteran; you have received a Purple Heart; you are the spouse or mother of a disabled veteran; or you are the widow, widower, or mother of a deceased veteran. You will need to submit a Standard Form (SF) 15 and proof of your claim. More information can be viewed at: http://www.opm.gov/StaffingPortal/vetguide.asp.<BR><BR>WHERE TO SEND APPLICATION PACKAGES: <BR><BR>USDA Forest Service <BR>Southern Region, Region 8, Savannah River, Forest Manager Staff<BR>Attn:&nbsp;&nbsp;Dan Strawbridge<BR>Recruitment Bulletin No. Savannah-River-0836-01<BR>USDA Forest Service-Savannah River<BR>P.O. Box 700<BR>New Ellenton, SC 29809<BR> <BR>FOR MORE INFORMATION ON THE POSITION BEING FILLED, CONTACT: <BR><BR>Yvonne Sodowsky, Resource Assistant, (803) 725-6419<BR>Forest Service Email Address: ysodowsky@fs.fed.us <BR>Subject:&nbsp;&nbsp;SCEP-Savannah-River-0836-01<BR><BR>Applicants with disabilities will receive consideration for reasonable accommodations in the hiring process for any physical, mental, or emotional impairment. Applicants should submit requests for reasonable accommodation with their job applications and provide supporting medical documentation. The decision on granting reasonable accommodation will be on a case-by-case basis. Please contact Daverdra Pierce, Equal Employment Specialist at 803-725-0257 or dppierce@fs.fed.us at the above address for more information. <BR><BR>The U.S. Department of Agriculture (USDA) prohibits discrimination in all its programs and activities on the basis of race, color, national origin, age, disability, and where applicable, sex, marital status, familial status, parental status, religion, sexual orientation, genetic information, political beliefs, reprisal, or because all or part of an individual's income is derived from any public assistance program. (Not all prohibited bases apply to all programs.) Persons with disabilities who require alternative means for communication of program information (Braille, large print, audiotape, etc.) should contact USDA's TARGET Center at (202) 720-2600 (voice and TDD). To file a complaint of discrimination, write to USDA, Director, Office of Civil Rights, 1400 Independence Avenue, S.W., Washington, DC 20250-9410, or call (800) 795-3272 (voice) or (202) 720-6382 (TDD). USDA is an equal opportunity provider and employer.<BR><BR><BR>&#8195;<BR>USDA FOREST SERVICE<BR>STUDENT CAREER SUPPLEMENTAL INFORMATION SHEET<BR>STUDENT CAREER EXPERIENCE PROGRAM<BR><BR>(Submit this questionnaire along with the Resume, and copy of transcript)<BR><BR>UNIVERSITY OR COLLEGE ______________________________________________<BR><BR>NAME __________________________ <BR><BR>PERMANENT RESIDENCE ADDRESS ________________________________________<BR><BR>SCHOOL RESIDENCE ADDRESS____________________________________________________<BR><BR>E-MAIL ADDRESS_______________________ COUNTRY OF CITIZENSHIP_______<BR><BR>CLAIMING VETERANS' PREFERENCE: Yes____ No____ If yes, FORM DD-214 must be submitted.<BR><BR>HOME TELEPHONE # ___________________ SCHOOL TELEPHONE # __________________<BR><BR>DEGREE PROGRAM:_____BA/BS_____MA/MS_____Ph.D<BR><BR>PROJECTED GRADUATION DATE: (MONTH/YEAR)____________________<BR><BR>MAJOR EMPHASIS ____________________________________<BR><BR>CUMULATIVE GPA MAJOR (GPA)_________________________________<BR><BR>TARGET OCCUPATION FOR WHICH YOU ARE INTERESTED: _________________________<BR><BR>Are you willing to work in rural/small communities: Yes____No____Population Size:__________<BR><BR><BR>LIST DUTY STATION(S) THAT YOU ARE INTERESTED IN APPLYING TO.<BR>&#8195;<BR><BR>BRIEFLY DESCRIBE WHY YOU ARE INTERESTED IN A CAREER WITH THE FOREST SERVICE:<BR><BR><BR><BR><BR>BRIEFLY DESCRIBE YOUR CAREER GOALS:<BR><BR><BR><BR><BR><BR>BRIEFLY DESCRIBE ANY VOLUNTEER WORK, INTERESTS, INVOLVEMENT IN ORGANIZATIONS, LANGUAGES SPOKEN, AWARDS OR RECOGNITION RECEIVED, TRAINING THAT HIGHLIGHTS YOUR SKILLS AND ABILITIES:<BR><BR><BR><BR><BR><BR>BRIEFLY DESCRIBE WORK EXPERIENCE RELATED TO YOUR MAJOR FIELD OF STUDY:<BR><BR><BR><BR><BR>Select one of the following that best describes how you found out about these positions:<BR><BR>______ Career Fair ______ Recruiter Contact<BR>______ Agency Human Resources Dept. ______ School Counselor/Placement Office<BR>______ Friend/Relative working for the agency Name__________________________ Other________________________<BR><BR><BR><BR>___________________&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__________________<BR>(Applicant's Signature) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Date)
+<br /><br />
+</td>
+</tr>
+
+	
+<!-- end decides wether to display affiliation or core description -->
+</tbody>
+<tr class="displayRow" valign="top">
+<td>
+<span class="displayLabel">Division:&nbsp;</span>
+<br />
+U.S. Forest Service, Southern Region, Region 8, Savannah River, Forest Manager Staff
+<br /><br />
+</td>
+</tr>
+
+
+
+
+
+</table>
+	
+		
+	<span class="displayLabel contactLabel">Contact Information:</span><br />
+<span class="displayValue contactText">
+				 
+					 Yvonne Sodowsky
+				
+				
+<br />				
+
+
+
+
+
+
+
+
+</span>
+<br />
+<table cellpadding="0" cellspacing="0" border="0">
+
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0">
+		
+		<tr class="displayRow" valign="top">
+<td>
+<span class="displayLabel">Application Deadline:&nbsp;</span>
+<br />
+8/05/11
+<br /><br />
+</td>
+</tr>
+
+		
+		
+		
+		
+		
+		
+</table>
+
+
+
+
+
+
+ 
+
+	</div>
+<!-- begin preferred qualifications -->
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+	<div class="applicationqualifications">
+	
+	<h2>Application Qualifications</h2>
+	  <div class="applicationqualifytext">
+
+
+		<span class="displayLabel">Desired Attributes</span>
+		 <span class="displayValue">
+		The following attributes are desired for this position.
+		<ul>
+		
+		
+			<li style="margin-bottom:5px;"><span class="inputLabelSM">Desired Major/Concentration:</span>
+			Civil Engineering</li>
+		
+		
+			<li style="margin-bottom:5px;"><span class="inputLabelSM">Desired Student Status:</span>
+			Junior, Senior, Sophomore</li>
+		
+		
+		
+			<li style="margin-bottom:5px;"><span class="inputLabelSM">Desired Work Authorization Status:</span>
+			U.S. Citizen or U.S. National</li>
+		
+		
+		</ul>
+		</span>
+	
+	  </div>
+	
+</div>
+
+
+
+
+
+
+ 
+
+<!-- end preferred qualifications -->
+		<!-- how to apply goes here -->
+		<a name="apply"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+<div class="applysection">
+<h3 class="applyhead">How To Apply</h3>
+<div class="applybox">
+<p>Applications for this position will be accepted between
+7/05/11
+and
+7/31/11.<br />
+</p>
+
+<p><span class="displayLabel">Application Requirements</span>
+You must include:
+		<ul>
+		<li>Resume</li>
+		
+
+		    
+		
+		</ul>
+		
+		<br>with your application for this position.
+</p>
+
+<p><span class="displayLabel">Online Applications Accepted</span>
+You can currently apply to this opportunity.
+</p>
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td class="primary"><a href="/stu/partner_redirect?partner=1649&activityType=16301&productHnd=1&entityHnd=27574654&redURL=%2Fer%2Fstu%2Fapplication%2Fapp_select_document.jsp%3Fjob_hnd%3D27574654%26affHnd%3D14272"><img src="http://20110714-images.experience.com/images2/stratego/buttons/std_btn_apply.gif" border="0" alt="Apply" width="83" heigth="17" /></a></td>
+    </tr>
+</table>
+
+
+</div>
+</div>
+
+
+
+
+
+
+ 
+
+</div>
+		<!-- end how to apply goes here -->
+<div class="employerinfo">
+		
+		<!--    <div id="research">
+      <div class="researchHeader">Employer Research</div>
+      <div class="researchContent">
+
+		<p>Search Google for more information on this employer.</p>
+
+							<img src="http://20110714-images.experience.com/images2/misc/bullet_green.gif" alt="" width="3" height="5" border="0"  />&nbsp;<a class="link_notes" href="/alumnus/web_results?qualifier=USDA+Forest+Service&source=2">USDA Forest Service</a><br />
+					<img src="http://20110714-images.experience.com/images2/misc/bullet_green.gif" alt="" width="3" height="5" border="0"  />&nbsp;<a class="link_notes" href="/alumnus/web_results?qualifier=jobs+at+USDA+Forest+Service&source=2">jobs at USDA Forest Service</a><br />
+					<img src="http://20110714-images.experience.com/images2/misc/bullet_green.gif" alt="" width="3" height="5" border="0"  />&nbsp;<a class="link_notes" href="/alumnus/web_results?qualifier=careers+with+USDA+Forest+Service&source=2">careers with USDA Forest Service</a><br />
+					<img src="http://20110714-images.experience.com/images2/misc/bullet_green.gif" alt="" width="3" height="5" border="0"  />&nbsp;<a class="link_notes" href="/alumnus/web_results?qualifier=internships+at+USDA+Forest+Service&source=2">internships at USDA Forest Service</a><br />
+					<img src="http://20110714-images.experience.com/images2/misc/bullet_green.gif" alt="" width="3" height="5" border="0"  />&nbsp;<a class="link_notes" href="/alumnus/web_results?qualifier=USDA+Forest+Service+financials&source=2">USDA Forest Service financials</a><br />
+				<div class="googleLogo"><img src="http://20110714-images.experience.com/images2/partners/google_search.gif" alt="" border="0" /></div>
+	</div>
+
+	<div class="tahomaHeader">Similar Jobs</div>
+	<div class="mainContent">
+
+		<span class="displayLabel" style="font-size:10px;">View More Jobs...</span><br />
+					<form name="loc" method="post">
+								<input type="hidden" name="addr_hnd" value="79845388" />
+								<input type="hidden" name="location_search" value="true" />
+				<div style="margin:2px 0px 4px 0px;"><img src="http://20110714-images.experience.com/images2/misc/arrow_orange_sm.gif" alt="" width="3" height="5" border="0"  /> <a href="javascript:document.loc.submit();">in this <strong>location</strong></a></div>
+			</form>
+		
+							<form name="ind" action="/stu/job_search" method="post">
+				<input type="hidden" name="action" value="search" />
+				<input type="hidden" name="oneClick" value="true" />
+				<input type="hidden" name="BoJobSearch21" value="11750" />
+									<input type="hidden" name="BoJobSearch63" value="2840824" />
+								<div style="margin-bottom:4px;"><img src="http://20110714-images.experience.com/images2/misc/arrow_orange_sm.gif" alt="" width="3" height="5" border="0"  /> <a href="javascript:document.ind.submit();">with the same <strong>industries</strong></a></div>
+			</form>
+		
+							<form name="fun" action="/stu/job_search" method="post">
+				<input type="hidden" name="action" value="search" />
+				<input type="hidden" name="oneClick" value="true" />
+				<input type="hidden" name="BoJobSearch21" value="11750" />
+									<input type="hidden" name="BoJobSearch5" value="2708663" />
+								<div style="margin-bottom:4px;"><img src="http://20110714-images.experience.com/images2/misc/arrow_orange_sm.gif" alt="" width="3" height="5" border="0"  /> <a href="javascript:document.fun.submit();">with the same <strong>job functions</strong></a></div>
+			</form>
+		
+							<div style="margin-bottom:4px;"><img src="http://20110714-images.experience.com/images2/misc/arrow_orange_sm.gif" alt="" width="3" height="5" border="0"  /> <a href="/er/stu/employer/employer_job_list.jsp?employer_hnd=5884441">being recruited by this <strong>employer</strong></a></div>
+		
+	</div>-->
+	
+
+	      <div class="googleHeader">Ads by Google</div>
+      <div class="googleContent">
+		<script>createGoogleFrame("/shared/google_iframe.jsp?keyword=Engineering+-+Electrical+articles&layout=notitle&max=4", "exp_job_search_results");</script>
+      </div>
+</div>
+	
+
+
+
+
+		
+		<br />
+		<script language='JavaScript' type='text/javascript'><!--
+if(!document.expAdBoxen)document.expAdBoxen=new Array();
+document.write("<div class='phpadbox' id='exp_adbox_"+document.expAdBoxen.length+"'></div>");
+document.expAdBoxen[document.expAdBoxen.length]='http://adserver.experience.com/adjs.php?n=__PHPADSRANDOM__&amp;what=zone:er_job_profile_right_column,override,default&amp;userhnd=29873844&amp;block=1&amp;exclude=__PHPADSUSED__'+
+(document.referrer?'&amp;referer='+escape(document.referrer):'')+'&amp;exp_server=duke.experience.com&amp;exp_http=http&amp;exp_image_server=20110714-images.experience.com';
+//-->
+</script>
+		<br />
+		<script language='JavaScript' type='text/javascript'><!--
+if(!document.expAdBoxen)document.expAdBoxen=new Array();
+document.write("<div class='phpadbox' id='exp_adbox_"+document.expAdBoxen.length+"'></div>");
+document.expAdBoxen[document.expAdBoxen.length]='http://adserver.experience.com/adjs.php?n=__PHPADSRANDOM__&amp;what=zone:er_job_profile_right_column_2p,override,major_2708564,gradyear_2012,ethnicity_1891537,organization_0,gender_1891548,school_20972,default&amp;userhnd=29873844&amp;block=1&amp;exclude=__PHPADSUSED__'+
+(document.referrer?'&amp;referer='+escape(document.referrer):'')+'&amp;exp_server=duke.experience.com&amp;exp_http=http&amp;exp_image_server=20110714-images.experience.com';
+//-->
+</script>
+</div><div style="clear:both;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+-->
+</div>
+</div>
+<br>
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td id="left" width="50%">
+		Copyright &copy;<script type="text/javascript">document.write(new Date().getFullYear());</script> <a href="http://www.experience.com" target="_blank">Experience, Inc.</a> - All Rights Reserved<br />
+			<a href="/experience/privacyPolicy" target="_blank">Privacy Policy</a>&nbsp;|&nbsp;<a href="/experience/terms_of_service" target="_blank">Terms of Service</a>
+			
+							&nbsp;|&nbsp;<a href="/stu/site_map">Site Map</a>
+					</td>
+		<td valign="bottom" id="right" height="36" width="50%" align="right"><a href="http://www.experience.com" target="_blank"><img src="http://20110714-images.experience.com//images2/experience_footer_logo.gif" width="126" height="34" alt="Experience - Internships, Entry-level Jobs and Career Management" title="Experience - Internships, Entry-level Jobs and Career Management" border="0"/></a></td>
+	</tr>
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+if(document.expAdBoxen)loadAdBox();
+</script>
+<!-- Start of GA Logging Code -->
+<script type="text/javascript">
+try{
+      var _gaq = _gaq || [];
+		//_gaq.push(_setCustomVar(1,'class','unknown', 2));
+	  _gaq.push(['_setCustomVar', 1, 'class', 'unknown', 2 ]);
+	   
+      	  											_gaq.push(['_setCustomVar', 2, 'role', 'student', 2 ]);
+							        
+			_gaq.push(['_setCustomVar', 4, 'reg', '28719700', 2 ]);
+      
+	  _gaq.push(['_setCustomVar', 3, 'prod', 'er', 2 ]);
+	  _gaq.push(['_setCustomVar', 5, 'rt', 'unknown', 2 ]);
+	  
+      _gaq.push(['_setAccount', 'UA-822818-1']);
+      _gaq.push(['_setDomainName', '.experience.com']);
+      _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+}catch(Exception){}  
+</script>
+<!-- End of GA Logging Code -->
+</body>
+</html><!-- END HTML  -->
+
+
+
+
+
+ 

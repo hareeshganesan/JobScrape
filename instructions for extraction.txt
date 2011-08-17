@@ -1,0 +1,23 @@
+div = "job_layouthead" --> h1 (0) Title
+
+div = "joboverviewPart1" -> span class "displayvalue" (1) Date
+
+div = "joboverviewPart1" -> span class "displayvalue" (3) Pay Type
+
+div = "joboverviewPart2" -> span class "displayvalue" (3) Job
+
+div = "joboverviewPart2" -> span class "displayvalue" (1) Full-time
+
+div = "joboverviewPart2" -> span class "displayvalue" (3) Compensation
+
+div = "interviewscedules" (TBD)
+
+div = "jobdetails -> table --> descriptionblock --> tr='displayrow' --> td --> all text not spanned
+
+span class="displayValue contactText" --> 
+
+last table in table --> tbody-->tr-->td--> br
+
+get everything in how to apply
+
+get evrything in Application Qualificationss

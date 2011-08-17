@@ -1,0 +1,16 @@
+body{
+	background: black;
+	font-family: 'Federo', cursive;
+}
+#menu{
+	color:white;
+	font-size:30px;
+}
+#menu ul{
+	display: inline;
+}
+#menu li{
+	margin-left:40px;
+	list-style: none;
+	float: left;
+}

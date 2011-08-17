@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Tue, 19 Jul 2011 05:56:57 GMT
+Set-Cookie: JSESSIONID=A7C419A2CA5A65529D604132F3BC8F97; Path=/
+Set-Cookie: backend_server=10.50.0.133; Path=/
+P3P: CP="NON CURa ADMa DEVa PSAa PSDa IVAa IVDa CONa TELa OUR BUS UNI COM NAV INT"
+Set-Cookie: loggedInFromProductSessionId=; Expires=Sun, 06-Aug-2079 09:11:04 GMT; Path=/
+Set-Cookie: loggedInFromProduct=Student; Expires=Sun, 06-Aug-2079 09:11:04 GMT; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 184
+Vary: Accept-Encoding,User-Agent
+
